@@ -1,0 +1,439 @@
+Day01
+	Every noble work is at first impossible
+	
+Subsidy ['sʌbsədi] n.补助；津贴
+	例：The Chainese government is making greate efforts to increase subsidies for utilities and portation
+	中国政府正努力增加对公共事业和交通运输的补贴
+	商：export subsidy 出口补贴/agricultural subsidy 农业补贴/housing subsidy 住房补贴
+	
+travel ['trævl] n./v.旅行
+	商：travel agency 旅行社/travel expense 差旅开支/travel allowance 差旅津贴；交通补贴
+	
+contrast ['kɒntra:st] n.对比，差别
+		 [kən'tra:st] v.(使)对比，(使)对照
+	搭：by contrast 相比之下/in contrast with 与...对比/contrast A with B 将A与B比较
+	派：contrasting adj.形成鲜明对比的(例：contrasting colour对比色)
+	写作小站：
+		In contrast with state-owned enterprises, private enterprises are usually more active and bear more pressure as well
+		与国有企业相比，私营企业更具活力，也承受着更大的压力。
+		
+Item ['aitəm] n.条，条款；项目；商品，产品
+	例：All the items and their quantities are listed on the declaration form
+	所有货物及其数量都被列在报关单上
+	搭：collector's item珍藏品
+	派：itemise vt.列出清单
+	
+litigate ['litigeit] vi.提出诉讼；打官司 vt.就...争论
+	例：We have to reserve our right to litigate for the patent dispute.
+	我们必须保留对于专利纠纷的诉讼权利
+	派：litigator n.诉讼律师
+	
+retire [ri'taiə] vi.退休 vt.收回，偿还
+	例：Short of retirement pension, the government stipulates that men should retire at 65 and women at 60.
+	由于退休金短缺，政府规定男性的退休年龄为65岁。女性为60岁
+	商：retired bill 已赎回的票据
+	派：retirement 退休/retirement pension 退休金/retiree n.退休者；退役者
+	
+malfunction [,mæl'fʌŋkʃn] n./v.机器故障；失灵
+	例：Macro-control is the effective complement to market flaw and market malfunction.
+	宏观调控是对市场缺陷和市场失灵的有效补充
+	
+treasure ['treʒərə(r)] n.会计；司库；财务主管
+
+aspiration [,æspə'reiʃn] n.渴望；抱负；呼气
+	例：Economic security is as important as economic aspiration.
+	经济安全同经济抱负一样重要
+	商：aspiration of revitalising national economy
+	振兴民族经济的抱负
+	搭：aspiration for sth./to do sth. 做...的渴望
+	
+prescriptive [pri,skriptiv] adj.说明性的，规定的，指定的
+	例：All the work should be finished at the prescriptive time, otherwise you will be fired.
+	所有的工作必须在规定时间内完成，否则你将被开除
+	搭：prescriptive power 相沿成习的权利/prescriptive methods of teaching 灌输式教学法
+	
+	
+	
+Day02
+	
+raise [reiz] n.加薪 vt.增加，提高；筹集；提出，解禁
+	例：They failed to raise the extra 13 million dollars.
+	他们没能筹集到额外的1300万美元
+	商；raise prise/interest rate 提高价格/利率/raise in salary加薪
+	搭：raise doubt/suspicion引起怀疑/猜疑/raise a blockade/a ban/an embargo 解除封锁/禁令/禁运
+	派：consciousness raising 觉悟的提高
+	
+voice mail
+	例：If I am not available when you are calling, you can leave a voice mail for me
+	如果你打电话时我不在，可以给我发个语音邮件
+	
+federation [,fedə'reiʃn] n.联合会；联盟
+	商：Consumer Federation of America 美国消费者协会/International Federation of Agricultural Producers 国际农业生产联盟
+	
+skip [skip] n.跳跃 vt.跳过；不参加（会议等）；跳读 vi.跳跃；跳绳；跳读
+	例：Time is running out, so we will directly skip to the last item on the agenda
+	时间所剩不多，因此我们直接跳到议程上的最后一项
+	skip from one topic to anather 从一个话题跳到另一个话题
+	
+accommodation [ə,kɒmə'deiʃn] n.住宿；住处；供应；贷款；融通票据（或汇票）；提供便利的设备（或用具）；适应，调节；和解
+	搭：reach accommodation with 与...达成和解/temporary accomodation 临时住处
+	写作小站：
+	Please don't worry! All the relevant issues about accommodation and dining will be arranged by the host of the conference.
+	请别担心！所有住宿及就餐的相关事项将由会议主办方来安排.
+	
+franchise ['fræntʃaiz] n.特许经销权 vt.给...以特权
+	例：Most companies may worry that their franchise holders lack business sense.
+	大多数公司可能会担心拥有他们特许经销权的人缺乏商业意识
+	商：apply for/win a franchise申请/赢得特许经销权/franchise sth. to sb. 将某种特许权授予某人/franchise agreement/company 特许经销权协议/特约代销公司
+	派：franchisee n. 特许经营人/franchiser n. 授予（他人）特许权的公司（或组织）/franchising n. 授权
+	
+forbearance [fɔː'beərəns] n. 容忍，宽容；延期偿付；（债权人权利的）暂缓行使
+	例：Under forbearance agreements, the debtee will delay his demand for the debtor's payment.
+	在暂缓行使协议下，债权人将推迟对债务人的付款要求
+	
+prerequisite [,pri:'rekwəzit] adj. 不可或缺的，必备的 n. 先决条件，前提
+	搭：prerequisite skill/knowledge 必备的技能/知识
+	写作小站：
+		Political stability is the prerequisite for rapid and healthy development of the econnomy
+		政局稳定是经济快速、健康发展的前提
+		
+gap [gæp] n.缺口；差距；隔阂；空白
+	例：The government is implementing macro-control policies to narrow the gap between urban and rural areas.
+	政府正在实行宏观调控来缩小城乡差距
+	商：gap in the market 市场的空白/income gap 收入差距/gap between the rich and the poor 贫富差距
+	搭：age gap 年龄差距/generation gap 代沟/bridge the gap 消除差距
+	
+improvement [im'pru:vmənt] n. 改进，改善
+	例：We will make constant efforts for the improvement of product performance.
+	我们将会不断努力来改进产品的性能.
+	商：technical improvement 技术进步
+	搭：room for improvement 改进的空间/substantial/dramatic improvement 实质性、巨大的进步
+
+
+
+
+	
+Day03
+
+inefficient [,ini'fiʃnt] adj.效率低的；(指人)不能胜任的
+	例：Some state-owned enterprises lack competitiveness because of inefficient management
+	某些国有企业由于管理低效而缺乏竞争力。
+	商：an inefficient secretary以为不称职的秘书
+	派：inefficiently n.无效率；无能(例：eliminate/reduce inefficiency消除/减少低效率情况)
+	
+outsource ['autsɔːs] v.(把...)外包
+	例：The contractor outsourced part of the project to speed up production.
+	承包商将部分项目外包以加快生产进度.
+	派：outsourcing n.(业务)外包
+	
+scepticism ['skeptisizəm] n.怀疑态度；怀疑论；怀疑主义
+	例：Though our latest product has shown its unique advantages, most traditional consumers still continue to view it with scepticism.
+	尽管我们的最新产品已经表现出其独有的优势，但大多数传统的消费者仍然继续对其持怀疑态度
+	
+buzzword ['bʌzwɜːd] n.(报刊等的)时髦术语，流行行话
+	例：Many buzzwords are coined with technological development, such as "information explosion", "digital", etc.
+	许多时髦的词都是随着科技的发展而创造出来的，比如“信息爆炸”、“数字化”等。
+	
+impressive [im'presiv] adj.感人的；令人钦佩的；令人印象深刻的
+	例：Our new product logo is unique and impressive.
+	我们新的产品标志很独特，能给人留下深刻印象。
+	派：impressively adv.令人难忘地
+	
+pursue [pə'sju:] vt.继续；从事；追赶；致力于 vi.追；继续进行
+	例：We constantly pursue perfection in our products.
+	我们不断追求产品的完美
+	商：pursue a managerial career从事管理工作
+	搭：pursue a goal 追求目标/pursue a legal action 进行诉讼
+	派：pursuer n.追求者；研究者
+	
+lure [luə(r)] n.诱惑物；诱惑 vt.引诱；诱惑
+	例：The speculators cannot resist the lure of high profits and continue to invest in the stock market.
+	投机商无法抵挡高利润的诱惑，继续投资股市。
+	搭：lure sb. into a trap 把某人诱入圈套
+	
+stagnant ['stæfnənt] adj.停滞的；萧条的
+	例：Export trade has been stagnant for three months due to the new policies.
+	受新政策的影响，出口贸易已经连续三个月停滞不前。
+	商：stagnant market/economy 萧条的市场/经济
+	
+predominant [pri'dɒminənt] adj.占主导地位的；显著的
+	搭：predominant culture 主流文化/predominant factor 主导因素
+	派：predominance n.优势；主导地位(例：market predominance市场主导地位)/pre-dominantly adv.占主导地位地，占优势地；显著地
+	写作小站：
+	Foreign brand cars are still predominant in the Chinese market as a result of the technological gap between China and other developed countries.
+	由于中国和其他发达国家技术上的差距，外国品牌汽车在中国市场上仍然占主导地位
+	
+whack [wæk] v.猛击；击败 n.重击；份；量；尝试
+	例：The domestic market fluctuation is obviously out of whack as a result of volatility of the exchange rate.
+	受汇率变化的影响，国内市场波动明显不正常.
+	商：pay the full whack 付全价/top whack最高价
+	搭：out of whack 运行不正常；有毛病
+	派：whacked adj.筋疲力尽的；疲惫不堪的/whacking adj.巨大的；惊人的
+	
+	
+	
+	
+	
+Day05
+
+hit [hɪt] v./n.打击，袭击
+	例：The Internet advertisement is charged according to the hits it gets.
+	网络广告是按点击率来收费的。
+	搭：hit the buffers(计划、事业等)突然受挫/hit the nail on the head说到点子上，正中要害/hit record/single风靡一时的唱片/单曲
+	
+uneconomical [,ʌn,i:kə'nɒmɪkl] adj.不节俭的；浪费的；不经济的
+	例；In the highly specialised market, it is uneconomical for enterprises to independently finish all links of business activities.
+	在高度专业化的市场中，企业独立完成经营活动的全部环节是不经济的。
+	
+objective [əb'dʒektiv] n.宗旨，目标 adj.客观的
+	商：business objective 经营目标/objective assessment 客观的评估
+	搭：achieve/set out an objective 实现/制定目标/objective criterion 客观标准
+	派：objectively adv.客观地/objectivity n. 客观性；客观事实
+	
+axe [æks] n./vt.解雇；大幅消减
+	例：It is not wise for the government to axe public spending at present.
+	政府目前大幅消减公共开支是不明智的。
+	搭：have an axe to grind 别有企图
+	
+carbon dioxide 二氧化碳
+	例：A low carbon econnomy asks for development based on lower carbon dioxide emissions.
+	低碳经济要求发展建立在减少二氧化碳排放的基础上
+	
+trust [trʌst] n.信任，信赖；责任；信托财产；信托基金机构 v.信任，信赖；依靠；期望
+	商：trust company 信托公司/trust deed 信托书/trust fund 信托基金
+	搭：accept a trust 接受信托/breach of trust 违反信托/in trust 受托
+	派：trustee n.受托人；托管人(例：trustee in bankruptcy 破产受托人)
+	
+universal [,ju:nɪ'vɜːsl] adj.普遍的，通用的；宇宙的；全世界的；全体的
+	搭：universal truth 普遍真理/universal health care 全民医疗保险/universal agreement 一致同意
+	派：universally adv.普遍地/universality n.广泛性；普遍性
+	
+portal ['pɔːtl] n.入口；门户网站
+	商：business portal 商业门户网站/online shopping portal 在线购物门户网站
+	
+paper ['peɪpə(r)] n.纸；官方文件；有价证券，流通票据；[pl.]证件
+	商：paper loss 账面亏损/paper profit 账面收益/paper money 纸币；票据
+	搭：on paper 以书面形式；理论上/identity papers 身份证件
+	
+dilemma [dɪ'lemə] n.困境；进退两难，左右为难
+	搭：face a dilemma 面临左右为难的困境/in a dilemma 处于进退两难的境地
+	听说小站：
+	M：I have advised them to be more cautious in overseas expansion.
+	我曾经劝告过他们在海外市场扩张时要更加谨慎.
+	W：Yes, they would not have been caught in the dilemma if they had followed your advice.
+	是的，如果他们听了您的建议，就不会陷入进退两难的境地了。
+	
+
+
+
+
+
+
+Day06
+
+escape [ɪ'skeɪp] v.逃避，避免 n.逃跑，逃亡
+	例：In the globalised world, it is hard for one country to escape from the effects of America's export policy.
+	在这个全球化的世界，一个国家很难逃脱美国出口政策的影响。
+	商：escape clause 例外条款；免除条款
+	搭：escape one's notice 没注意到/narrow escape死里逃生；侥幸逃走/escape route 逃跑路线
+	
+resolve [rɪ'zɒlv] vt.解决，解答；决定，决意；分解 n.决定，决意；
+	例：It needs the joint efforts of all the countries to resolve the economic crisis.
+	这场经济危机的解决需要所有国家的共同努力。
+	搭：resolve to do sth.下定决心做某事/resolve on/upon sth.决定做某事/resolve into sth./sth. into(使...)分解成
+	派：resolved adj.下定决心的，坚定的
+	
+branding stretching 品牌扩张
+	例：Brand stretching means using an established brand name for products in other unrelated market.
+	品牌扩张就是指用现有品牌进入其他完全不相关的市场
+	
+disaster [dɪ'zɑːstə(r)] n.灾难，灾祸；不幸
+	例：We covered the goods against natural disaster under the request of our customer.
+	按照客户要求，我们为这批货投了自然灾害保险。
+	商：financial disaster 严重的财政危机
+	搭：recipe for disaster 造成灾难的原因/disaster area 灾区
+	派：disastrous adj.灾难性的；悲惨的
+	
+bond [bɒnd] n.联结，联系；黏合剂；公债，债券；契约，合同 v.(使)黏合，(使)结合
+	例：The economic development mode of a country is closely bonded with its natural resources.
+	一个国家的经济发展模式是和它的自然资源紧密联系在一起的
+	商：bond market 证券市场/bond maturity 债券到期日/National Savings Bonds 国家储蓄债券/bonded goods 保税货物/bonded warehouse保税仓库
+	搭：bond A and B together 把A和B紧密联系在一起/bond with sb. 和某人拉关系
+	派：bondage n.奴役；束缚
+	
+panel ['pænl] n.面板，仪表盘；专门小组；全体陪审员 vt.镶嵌
+	搭：on the panel 接受健康保险医疗；在受审中/control panel 控制面板
+	
+recruit [rɪ'kru:t] v.招募(新兵)；吸收(新成员)；补充 n.新兵；新成员
+	例：The company is recruiting new employees who are good at computer programming.
+	这家公司正在招收擅长计算机编程的新员工
+	搭：raw recruit 生手
+	派：recruiter n.招聘人员/recruitment n.招收(新成员)(例：recruitment programme 纳新计划)
+	
+prominence ['prɒmɪnəns] n.重要；突出，卓越
+	例：The US has been known for its prominence in high-tech since the Second World War.
+	二战以来，美国因其在高科技方面的卓越成就而闻名
+	搭：rise to prominence 出名/achieve prominence 享有名气
+	派：prominent adj.重要的；杰出的；显著的，突出的(例：a prominent leader 杰出的领袖)
+	
+vacate [və'keɪt] vt.空出，腾出；辞(职)；让(位)
+	例：Nobody has taken over the position vacated by John.
+	约翰辞职后，还没有人接替他。
+	
+insight ['ɪnsaɪt] n.洞察力；洞悉
+	例：He makes use of his keen insight into international political relations to achieve his economic purpose.
+	他利用对国际政治关系敏锐的洞察力来实现他的经济目的。
+	派：insightful adj.有深刻了解的；富有洞察力的
+	
+Day07
+
+devastate ['devəsteɪt] vt.毁灭，毁坏
+	派：devastated adj.毁坏的；震惊的/devastating adj.毁灭性的；令人震惊的(例：devastating effect/blow 毁灭性的影响/打击)/devastation n.毁灭，破坏
+	写作小站：
+	Rising carbon emissions will finally devastate our economy and ecological environment.
+	碳排放的不断增加最终会毁坏我们的经济和生态环境。
+	
+issue ['ɪʃu:;ɪsju:] n.发行，发布；(书刊的)期；问题，争议 v.发行；发布；颁布
+	例：The government has just issued a new decree to purify the market environment and maintain the fair competition system.
+	政府刚刚颁布一项新法令来净化市场环境，维护公平的竞争秩序。
+	商：issue a certificate/share/visa签发证书/发行股票/给予签证
+	搭：be at issue 成为讨论的焦点/a controversial issue 一个有争议的问题
+	派：issuer n.发行者；发行机构(例：credit card issuer 信用卡发行机构)
+	
+turmoil['tɜːmɔɪl] n.混乱，骚动
+	例：If not dealt with properly, the Eurozone crisis may turn the global economy into turmoil.
+	如果处理不当，欧元区危机可能会使全球经济陷入混乱
+	
+candidate ['kændɪdent] n.候选人，应试者
+	商：presidential candidate总统候选人
+	派：candidacy/candidature n.候选资格
+	听说小站：
+	M：It is not easy to be the president of Asian market.
+	想做亚洲区总裁可不是一件容易的事。
+	W：Yes, there are more than ten competitive candidates applying for the position now.
+	是的，目前有十多个有竞争力的候选人申请该职位。
+	
+scrap [skræp] n.碎片，碎屑；肥料，残余物；[pl.] 残羹剩饭；少量，点滴 vt.废弃；报废，拆毁
+	例：It is necessary for us to check every scrap of information in the contract.
+	我们有必要核对合同上的所有信息。
+	商：scrap value 残值；废料价值
+	
+react [rɪ'æct] vi.反应；影响；反抗；起反作用
+	例：The employees reacted violently to the decision that the company intends to lay off the employees to cut budgets.
+	员工对公司打算裁员以消减预算的决定反应激烈。
+	搭：react agianst 反对；反抗
+	派：reactor n.反应堆/reactivate vt.使恢复活动；使重新出现
+	
+commitment [kə'mɪtmənt] n.承诺；致力，献身；定期付款；花费，使用(资金、人力等)
+	例：A new medical-insurance system needs the financial commitment of the central government.
+	一项新的医保制度需要中央政府的财政保障。
+	搭：make a commitment to sb. 向某人作出承诺/the commitment of resources to property industry 对房地产业的资源投入
+	
+promote [prə'məut] vt.提升，提拔；促进；发扬；发起，创办；促销
+	例：The policy is beneficial to promote the coordinative development of the regional economy.
+	这项政策有利于推动区域经济的协调发展
+	商：promote a product 推销商品/be promoted as a vice manager 被提升为副经理/promote the awareness of competition 提高竞争意识
+	派：promoter n.筹办者，发起者；倡导者
+	
+procedure [prə'si:dʒə(r)] n.程序，手续；步骤
+	例：The government is going to simplify the approval procedure for foreign investment projects to improve work efficiency. 
+	政府打算简化外商投资项目的审批手续来提高办事效率。
+	商：maintenance procedure 维修程序/legal procedure 司法程序
+	派：procedural adj.程序(上)的，手续的(例：procedural matter 程序性问题)
+	
+tighten ['taɪtn] v.(使)变紧，(使)绷紧
+	例：The central government planned to tighten money supply to curb rising inflation.
+	中央政府打算紧缩银根来抑制日益严重的通货膨胀
+
+Day08
+	
+cost [kɒst] n.成本；代价；费用 v.花费；付出代价
+	例：It cost them $1 million to update their production equipment.
+	更新生产设备花了他们100万美元。
+	商：average cost 平均成本/fixed cost 固定成本/running cost 经营成本/cost accountant 成本会计师/cost benefit analysis 成本效益分析
+	搭：estimate the cost 估算成本/at all costs 不惜任何代价/at any cost 无论如何
+	派：costly adj.花费大的，昂贵的/costing n.成本计算，成本法(例：long-term/short-term costing 长期/短期成本计算)/cost-effective adj.划算的(例：cost-effective price 划算的价格)
+	
+doom [du:m] n.厄运；死亡；判决；世界末日 vt.注定；判决；使失败
+	例：The investment in Africa is doomed from the start.
+	在非洲的投资从一开始就注定要失败
+	搭：doom and gloom 前景暗淡；无望/prophet of doom 悲观论者/doom to 使...在劫难逃；注定
+	派：doomy adj.使人沮丧的；忧伤的
+	
+manpower ['mænpaʊə(r)] n.人力；劳动力
+	例：Proper internal manpower allocation will yiled twice the result with half the effort.
+	恰当的内部人员调度可以起到事半功倍的效果
+	商：manpower deficit 劳动力匮乏/manpower surplus 劳动力过剩/carry out manpower planning 进行劳动力规划
+	
+standstill ['stændstɪl] n.停顿，停止
+	搭：at a standstill 处于停顿状态
+	写作小站：
+	The consumer confidence index might soom plummet as it did in late 2010, bringing the national economy to a standstill.
+	消费者信心指数可能很快会像2010年底那样急转直下，导致国民经济陷入停顿
+	
+strategy ['strætədʒi] n.战略；策略；政策
+	例：The government needs to develope a new strategy for getting more people back to work.
+	政府需要制订新的战略，使更多的人重获工作。
+	商：marketing strategy 营销战略/logistics strategy 物流战略/strategy formulation 战略制订
+	派：strategise v.制订战略；制订行动计划
+	
+acceptance [ək'septəns] n.认可；(票据、汇票等的)承兑
+	例：Our products won wode acceptance in the European market.
+	我们的产品获得了欧洲市场的广泛认同
+	商：document against acceptance 承兑交单/acceptance chaeck 验收/acceptance of the bid 中标
+	
+
+Day08
+
+Perseverance is not a long race;it consists of many short races one after another.
+坚持不懈不是一次长跑，而是一个接一个的短跑！
+英语学习需要一步一个脚印，坚持下去，总有一天你会发现自己的进步
+
+guarantee [,gænrən'ti:] n.保证；保单；保证书；抵押品 vt.保证，担保
+	例：If there is something wrong with the products, consumers can still claim their rights from the supermarket, no matter what a guarantee says.
+	商品如果出了问题，不论保证书如何规定，消费者仍然可以去超市索赔以维护自身权益。
+	商：under guarantee 在保修期内/guaranteed wage 保证工资/guarantee change of article or refund if unsatisfactory 包退包换
+	搭：guarantee sth. against sth. 给予...书面保证；为...提供保修单
+	派：guarantor n.保证人；担保人
+	
+penalty ['penəlti] n.罚款；处罚
+	例：Any party who fails to implement the contract will incur a heavy financial penalty.
+	任何不履行合同的一方都将被处以重金罚款。
+	搭：penalty area 罚球区；禁区/penalty for 对...的处罚
+	
+site map 网站地图；地位级图
+	例：It is convenient and fast for the users to use a site map to orientate themselves.
+	用户可以使用网站地图方便、快速地定位自己所处的地点。
+	
+appreciation [ə,pri:ʃi'eɪʃn] n.欣赏；鉴别；增值；感谢；赞赏
+	例：The manager testified his appreciation of Linda's work by raising her pay.
+	经理给Linda加薪，以示对她的赞赏
+	商：capital appreciation 资本增值/appreciation of real estate 不动产增值/currency appreciation 货币增值
+	
+load [ləʊd] v.装货，撞在；加载 n.负载；工作量
+	商：deliver a load 运送货物/pick up a load 装载货物/transport a load 运输货物/work load 工作量
+	搭：load line 载重线/load a program 载入程序/bear the load of 承受负荷；承担...的责任/take a load off one's mind 如释重负
+	
+buffer ['bʌfə(r)] n.减震器；缓冲作用；缓冲物 vt.减少；减缓
+	例：We shouldn't spend lavishly and we need to keep savings as a buffer against unexpected cash needs.
+	我们花钱不应该大手大脚，应该留些积蓄以备不时之需。
+	搭：buffer country 缓冲国/buffer zone 缓冲区/buffer sb. against sth. 使某人不受某物的伤害
+	
+centrepiece ['sentəpi:s] n.核心；中心装饰品
+	例：Tourism and international trade usually constitute the centrepiece of economic development in most coastal cities.
+	旅游业和国际贸易通常是大多数沿海城市经济发展的核心。
+	
+dry up (使)干涸，(使)枯竭；(使)住口
+	例：Sources of small-business funding dried up quickly as a result of economic downturn.
+	由于经济低迷，小企业的资金来源迅速枯竭
+	
+conglomerate [kən'glɒmərət] n.联合企业，集团公司；跨行业公司
+	例：Geely Holding Group is a large industrial conglomerate in China.
+	吉利控股集团是中国一家很大的工业集团公司
+	派：conglomeration n.混合物；聚集物；聚集状态
+	
+time [taɪm] n.时间；工作时间；[pl.] 时代；次数 vt.为...安排时间；测定...的时间
+	商：pay double time 制度双倍工资/time bargain 定期交易/time deposit 定期存款/time card 考勤卡
+	搭：time off 休假，请假/be pushed for time 时间紧迫/run out of time 没有时间
+	派：timely adj.及时的/timing n.定时；调速；时间选择/time-consuming adj.耗时的；旷日持久的(例：a time-consuming price war 旷日持久的价格战)
+		
