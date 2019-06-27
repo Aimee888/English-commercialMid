@@ -436,4 +436,65 @@ time [taɪm] n.时间；工作时间；[pl.] 时代；次数 vt.为...安排时�
 	商：pay double time 制度双倍工资/time bargain 定期交易/time deposit 定期存款/time card 考勤卡
 	搭：time off 休假，请假/be pushed for time 时间紧迫/run out of time 没有时间
 	派：timely adj.及时的/timing n.定时；调速；时间选择/time-consuming adj.耗时的；旷日持久的(例：a time-consuming price war 旷日持久的价格战)
+	
+	
+	
+Day09
+
+empowerment [ɪm'paʊə(r)mənt] n.许可，授权
+	写作小站：
+	Effective empowerment management could encourage the employees' initiative and stimulate their sense of responsibility.
+	有效的管理许可能够鼓励员工的积极性，激发他们的责任意识
+	
+upgrade [,ʌp'greɪd] vt.升级，晋升；改善 ['ʌpgreɪd] n.升级；上升
+	例：The government planned to reorganise and upgrade medical facilities at town level.
+	政府打算对乡镇级的医疗设施进行整顿和升级。
+	商：industry upgrade 产业升级
+	
+leap [li:p] v.跳；跳跃 n.飞跃；跳跃
+	例：Due to a good political environment at home and abroad, the national economy has developed leaps and bounds recently.
+	得益于良好的国内外政治环境，国民经济最近取得了飞速的发展。
+	商：leap in profits/productivity 利润/生产率大幅度提高
+	搭：look before you leap 三思而后行/leap year 闰年
+	
+scare [skeə(r)] vt.恐吓，使恐慌 vi./n.惊恐，恐慌
+	例：Consumers are scared off by the rising prices.
+	消费者们被不断上涨的价格吓坏了。
+	搭：scare sb. into doing sth.恐吓某人做某事
+	派：scared adj.恐惧的，害怕的/scary adj.引起恐慌的
+	
+conversion [kən'vɜːʃn] n.转化，转变；兑换；改变信仰
+	例：Thanks to the conversion of design concepts, the newly designed cars sell well and are popular with the customers.
+	多亏设计理念的转变，新设计的车销量很好，很受顾客的欢迎
+	搭：conversion from ... to ... 从...到...的转变/conversion to Christianity 皈依基督教
+	
+personnel [,pɜːsə'nel] n.[总称]人员，员工；人事部门
+	商：personnel management 人事管理/personnel manager 人事部经理/personnel department 人事部门/sales/technical personnel 销售/技术人员
+	
+background ['bækgraʊnd] n.背景；隐蔽的位置
+	例：Property law is of great value against the present economic background.
+	物权法在目前的经济背景下很有价值
+	搭：background information/knowledge 背景信息/知识/in the background 在幕后；在隐蔽的地方
+	
+failsafe system 故障保险系统；安全系统
+	例：The failsafe system will automatically start if the system fails or is attacked from outside.
+	如果系统失灵或者受到外部攻击，故障保险系统将自动启动
+	
+chronological [,krɒnə'lɒdʒɪkl] adj.按时间顺序的
+	例：The accountant arranged all the invoices in a chronological order.
+	会计将所有发票按时间顺序排好。
+	派：chronologically adv.按时间顺序地
+	
+diligence ['dɪlɪdʒəns] n.勤劳；努力
+	例：In order to win the boss's favour, the new employee does his work with great diligence.
+	为了赢得老板的赏识，这位新人工作非常勤奋。
+	派：diligent adj.勤奋的；刻苦的
+	
+	
+	
+Day10
+	
+despite [dɪ'spaɪt] prep. 尽管，不管 n.轻视；憎恨
+	例：Despite the excellent quality and competitive price, our products don't sell well in the American market.
+	尽管我们的产品物美价廉，但是在美国市场上卖的并不好。
 		
