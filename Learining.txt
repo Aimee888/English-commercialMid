@@ -497,4 +497,59 @@ Day10
 despite [dɪ'spaɪt] prep. 尽管，不管 n.轻视；憎恨
 	例：Despite the excellent quality and competitive price, our products don't sell well in the American market.
 	尽管我们的产品物美价廉，但是在美国市场上卖的并不好。
+	
+conservative [kən'sɜːvətɪv] adj.保守的；[C-] 保守党的 n.保守(主义)者；保守党党员
+	例：Any conservative investor will neither make a fortune nor lose much.
+	任何一个保守的投资者都既不会赚大钱，也不会亏损太多。
+	搭：British Conservative Party 英国保守党/conservative estimate 保守的估计
+	派：conservativily adv.保守地，谨慎地/conservation n.保护；保存/conservatism n.保守；保守主义
+	
+fulfil [ful'fɪl] vt.履行；实现；满足；使结束
+	搭：fulfil one's dream/ambition 实现梦想/抱负/fulfil the requirements 满足要求
+	派：fulfilment n.实行，履行/fulfilling adj.令人满意的/fulfilled adj.满足的
+	写作小站：
+	Both the parties should strictly fulfil the terms of the agreement.
+	双方都应严格履行协议条款
+	
+curve [kɜːv] n.曲线；弯曲；曲线图表 v.(使)弯曲；
+	例：This company is behind the curve, because it did not spot the potential competitive threat.
+	这家公司由于没有发现潜在的竞争威胁，故而发展滞后
+	搭：ahead of/behind the curve 领先/落后于形势
+	派：curved adj.弯曲的，弧形的
+	
+flat [flæt] adj.萧条的；单调的；平坦的 n.公寓 adv.断然；直接了当
+	例：The market of consumer durables has been flat for several months.
+	耐用消费品市场已经有好几个月处于低迷状态。
+	商：charge a flat rate 按统一利率收取利息/flat yiled 固定收益率
+	搭：flat voice 单调的声音/flat shoes 平底鞋/a block of flats 一栋公寓楼/fall flat 完全失败；完全未达到预期效果
+	派：flatly adv.断然地；单调地
+	
+accept [ək'sept] v.接受，认可
+	例：Our government will not accept international aid.
+	我国政府是不会接受国际援助的
+	商：accept L/C payment terms 接受信用证付款方式/accept a commission 接受委托/accept an offer 接受报价/accept an order 接受订单
+	派：acceptable adj.(例：The price of the products is acceptable for most consumers.这些产品额价格对大多数消费者来说可以接受)
+	写作小站：
+	We kindly inform you that we only accept products without any quality problems.
+	我方友善提醒，我们只接受毫无质量问题的产品。
+	
+bull market 牛市(行情看涨的市场)
+	例：He forecasts the end of the bull market due to the collapse of technology stocks.
+	他预言牛市将因科技股的崩溃而结束。
+	
+freight [freɪt] n.货运；运费 vt.寄送，运送(货物)
+	例：He has to pay the extra freight charges because his parcel was overweight.
+	由于包裹超重，他不得不支付额外运费。
+	商：freight forwarder 货运代理商
+	搭：freight train 货运列车/be freighted with 充满
+	派：freighter n.货船；运输公司
+	
+encourage [ɪn'kʌrɪdʒ] vt.鼓励，激励；怂恿；支持
+	例：In theory, lowering interest rates could encourage investment and credit.
+	从理论上讲，降低利率可以鼓励投资和信贷。
+	派：encouraging adj.令人鼓舞的；鼓励的/encouragement n.鼓励
+	
+cast study 案例研究；原因分析；典型调查
+	例：The bankruptcy of that company offers a revealing and depressing case study.
+	那家公司的破产给我们提供了一个具有启发性又令人惋惜的研究案例。
 		
