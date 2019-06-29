@@ -621,4 +621,57 @@ contingency [kən'tɪndʒənsi] n.突发事件，以外事故；偶然性
 	
 
 Day12
-		
+
+flexitime [,fleksitaim] n.弹性上班制
+	例：The exact starting time must be indicated under flextime.
+	在弹性工作制下，一定要注明开始工作的确切时间。
+	
+bring up 提出；养育；突然停止；使达到；把..举高
+	例：The pension problem was brought up for discussion at the meeting.
+	人们在会上提出并讨论了养老金问题。
+	
+circulate ['sɜːkjəleit] vi.传播；循环，刘同 vt.使(货币等)流通，使周转
+	例：Rumours were once circulated that December 22nd of 2012 was the end of the world.
+	关于2012年12月22号是世界末日的谣言曾一度流传
+	派：circulation n.流通(指货物、货币等)(例：currency circulation 货币流通/daily circulation 日发行量)
+	
+craft [kra:ft] vt.精心制作 n.手艺；工艺
+	例：The delegates crafted a compromise proposal to satisfy both parties.
+	代表们精心制定了一个令双方都满意的折中方案。
+	商：craft fair 工艺品交易会/craft workshop 工艺品制作车间
+	派：craftsman n.手工艺人/craftwork n.工艺品/crafty adj.狡猾的；巧妙的
+	
+subsidiary [səb'sɪdiəri] n.子公司 adj.附属的；从属的；次要的
+	商：subsidiary company 附属公司/overseas subsidiaries 海外子公司
+	派：subsidiary matters 次要问题
+	
+solid ['sɒlɪd] adj.固体的；实心的；结实的；可靠的；一致的；连续的；立体的 n.固体
+	例：A stable international political environment has laid a solid foundation for the future development of the global economy.
+	稳定的国际政治环境为全球经济未来的发展打下了坚实的基础。
+	搭：solid fuels 固体燃料/solid information 可靠消息/solid as a rock 坚如磐石；(人)稳妥可靠的
+	派：solidity n.固态；坚强；完整性/solidify v.(使)凝固；(使)变硬；(使)稳固
+	
+accemble [ə'sembl] vt.集合，聚集，召集；装配；[计]汇编
+	例：The government has assembled a group of economists to discuss how to tackle inflation.
+	政府召集一小组经济学家讨论如何应对通货膨胀。
+	搭：assemble ... for a meeting 召集...开会
+	派：assembler n.装配工；汇编程序，汇编语言
+	
+par [pa:(r)] n.(证券、股票的)票面价值；同等(地位)；相同程度
+	商：redeem at par 以票面价值兑换/par value 票面价值，面值/below/under par 在票面价值以下
+	搭：on a par with 和...一样
+	
+order ['ɔːdə(r)] n.命令；顺序；订单 v.命令；订购
+	例：China ordered large ammounts of rice from Thailand to relieve the domestic pressure on food supply.
+	中国从泰国订购了大批大米以缓解国内粮食供应的压力
+	商：place a order 下订单/order form 订单/pur-chase order 订购单
+	搭：in order 有条理，有秩序；整洁/made to order 定制的/on order 在订购中/out of order 出故障；次序颠倒
+	派：ordering n.订购；排序/orderly adj.有秩序的，整齐的；值班的 adv.顺序地，依次地
+	
+subscribe [səb'skraib] vt.签署；赞成；捐助 vi.订阅；认购；签署；赞成；捐款
+	例：The office subscribed to Financial Times to help us keep abreast of the latest international economic situation.
+	办公室订购了《金融时报》以帮助我们了解最新的国际经济形势。
+	商：subscribe for shares 认购股份
+	搭：subscribe to 订购；定期捐助；同意
+	派：subscriber n.订户；捐款人/subscription n.订金；认购；签署；捐献(例：subscription service 订阅服务/subscription shares 认购股份)
+	
