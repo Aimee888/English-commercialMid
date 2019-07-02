@@ -727,3 +727,60 @@ whim [wɪm] n.奇想；一时的兴致；心血来潮
 	一旦批准的样品投入生产，我们就不会在随着客户的性子进行修改了。
 	搭：on a whim 一时冲动/at whim 随心所欲地
 	
+
+
+Day14
+
+marketing ['mɑːkɪtɪŋ] n.行销；在市场上买卖
+	商：direct marketing 直销/marketing audit 营销审核/marketing environment 营销环境/marketing mix 营销组合/marketing plan 营销计划/marketing consultant 市场顾问，销售顾问
+	
+ambition [æm'bɪʃn] n.抱负，雄心；野心；追求的目标
+	例：His ambition is to become the largest share-holder of the company.
+	他的目标是成为这家公司最大的股东
+	搭：political ambition 政治野心/lifelong ambition 终生追求的目标/achieve one's ambition 实现某人的抱负；得志/have an ambition for sth. 有想得到...的野心/have an ambition to to sth.有想做...的野心
+	
+estate [ɪ'steɪt] n.房地产；财产；身份
+	商：real estate 房地产/estate agent 房产代理/estate agency 不动产代理机构
+	
+benefit ['benɪfɪt] n.好处，益处；津贴；救济金；保险金 vt.有益于，对...有好处 vi.受益
+	例：Wise investors benefit enormously from venture investment.
+	精明的投资者从风险投资中获取巨额利润.
+	商：fringe benefit 额外福利/housing benefit 住房补贴/unemployment benefit 失业补贴/mutual benefit 互利/reap benefit 获利
+	搭：benefit from 从...中获利/be of benefit to 对...有好处/for the benefit of 为了...的利益
+	派：beneficiary n.受益人，受惠者；受遗赠人(例：beneficiary country 受益国)
+	
+gilt-edged [,gɪlt'edʒd] adj.金边的；最上等的
+	商：gilt-edged investment 金边投资/gilt-edged securities/stocks/shares 金边证券/股票/股份
+	
+convince [kən'vɪns] vt.说服，使信服
+	搭：convince sb. to do sth.说服某人做某事
+	派：convinced adj. (对...)深信的，确信的/convincing adj.令人信服的，有说服力的(例：a convincing argument/explanation 令人信服的观点/解释)
+	听说小站：
+	M: The morale of the staff has not been in-fluenced by the depression.
+	员工的士气没有被经济萧条所影响。
+	W: That's because the manager convinced all the employees that he would not lay off any of them in the economic depression.
+	那是因为这位经理让所有的员工相信，他不会在这次经济萧条中裁员。
+	
+arrears [ə'rɪəz] n.欠款；逾期债款
+	例：The pledged property will be expropriated once you fall into arrears with the loan.
+	一旦你拖欠贷款不还，抵押的财产就会被没收
+	商：in arrears with the payment 拖欠付款/mortgage/rent/salary arrears 逾期未付的抵押贷款/租金/工资
+	
+retail ['ri:teɪl] n.零售 adj.零售的 adv.以零售方式进行地 [rɪ'teɪl] v.零售 
+	例：This coat is usually retailed at $100 in our store, but the consumers can enjoy a 10% discount during festival celebrations or business anniversaries.
+	通常情况下，这件外套在我们店的零售价是100美元，但是在节庆或者店庆时，消费者可以享受10%的折扣
+	商：retail outlet 零售渠道/retail industry 零售业/retail sales 零售额/retail trade 零售贸易
+	搭：retail at 以...价格零售
+	派：retailer n.零售商/retailing n.零售业
+	
+prolong [prə'lɒŋ] vt.延长，拖延
+	派：prolongation n.延长，延伸/prolonged adj.持久的；拖延的
+	听说小站：
+	M: It is almost impossible for us to meet the deadline.
+	我们几乎赶不上最后期限了。
+	W: Then, we have to negotiate with our customer about prolonging the delivery date.
+	那么，我们就只好跟客户协商延长交货期了。
+	
+folder ['fəʊldə(r)] n.文件夹；折叠机；折叠式印刷品
+	例：You should create a special folder on the desktop and put all the relevant data about this project into it.
+	你应该在桌面建立一个专门的文件夹，并将所有和这个项目相关的数据放进去
