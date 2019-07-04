@@ -865,3 +865,57 @@ awareness [ə'weənəs] n.知道，意识
 	写作小站：
 	The advertising campaign aims to strength the customers' brand identification awareness of our products.
 	此广告宣传活动旨在增强消费者对我们产品的品牌识别意识。
+	
+	
+Day16
+
+invoice ['ɪnvɔɪs] n.发票；发货单；货物 vt.开发票；记清单
+	例：Please help me invoice all the items to the company's account.
+	请帮我将所有物品记到公司账户上
+	商：commercial invoice 商业发票/pro forma invoice 形式发票/value-added tax invoice 增值税发票/issue an invoice for 为...开具发票
+	
+consumable [kən'sju:məbl] adj.可消耗的 n.[pl.]消耗品
+	例：We update our mailshots regularly and send them to our customers.
+	我们定期更新邮寄广告单，并将它们发给我们的客户
+	商：do a series of mailshots 进行一系列的邮寄广告宣传/send out a mailshot 发出邮寄广告材料
+	
+fire ['faɪə(r)] vt.解雇；激发，激起；开火 n.火
+	例：He was fired not because of disability but because of his disagreement with his big boss.
+	他被开除不是因为工作能力有问题，而是因为他和大老板的意见不一致。
+	搭：fire sb./sth. up 使充满激情/fire questions/insults at sb. 向某人提出一连串的问题/辱骂某人
+	
+succession [sək'seʃn] n.连续，接续；继任，继承(权)
+	例：The company has profited more than one billion dollars for the fifth year in succession.
+	这家公司已经连续5年盈利超过10亿美元。
+	搭：in succession 连续地/in succession to 接替/a succession of 一系列
+	
+pull together 齐心协力；振作起来
+	例：The government called on all the enterprises to pull together to fight against the economic crisis.
+	政府号召所有企业齐心协力，共同抵御这场经济危机。
+	
+moratorium [,mɒrə'tɔːriəm] n.延期偿还；暂停，终止
+	例：The government imposed a moratorium on initial public offering.
+	政府暂停首次公开发行新股
+	商：impose/seek a moratorium 实施/寻求延期偿还
+	
+rival ['raɪvl] n.竞争者，对手 adj.竞争的 vt.竞争，对抗；相匹敌
+	例：No other company can rival us in the performance of the product.
+	在该产品的性能上，没有任何公司能和我们相匹敌。
+	商：close rival 势均力敌的对手/rival bid/offer 竞争投标/报价
+	搭：rival...for/in 与...相匹敌，比得上
+	派：rivalry n.竞争，对抗 
+	
+pre-emptive [pri'emptɪv] adj.有先买权的，优先购买的；先发制人的
+	例：In order to gain more market shares, we should launch a pre-emptive marketing campaign.
+	为了赢得更多的市场份额，我们应该提前发起营销活动。
+	派：pre-emption n.优先购买 
+	
+bar chart 条形图
+	例：The bar chart presents the increase in output from July to December.
+	该条形图显示了从7月到12月的产量增长情况。
+	
+rocket ['rɒkɪt] vi.迅速增加；飞快地移动 n.斥责；火箭
+	例：The flood led to crop failures and consequently the prices of argricultural products rocketed.
+	洪水导致农作物减产，农产品价格也因此而飙升。
+	搭：give sb. a rocket 痛骂某人；严厉指责某人/rocket to stardom 一举成名
+	派：rocketry n.火箭学；火箭技术
