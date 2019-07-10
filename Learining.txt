@@ -1089,3 +1089,68 @@ reckon ['rekən] v.估算，计算，认为
 achievable [ə'tʃi:vəbl] adj.可完成的；做的成的；可有成就的
 	例：Outsize returns could be achievable in this prosperous emerging market.
 	这个繁荣的新兴市场上有可能带来巨额回报。
+	
+	
+	
+Day20
+
+arise [ə'raɪz] vi.出现；上升；起立
+	例：Many fundamental problems arose after the collapse of the bubble economic.
+	经济泡沫破灭后，许多根本性的问题浮现了出来。
+	搭：arise from 从...中产生；由...引起  flying start 迅速起步，迅速发展
+	例：The start-up company got off to a flying start after the injection of a large amount of capital.
+	大笔资金注入后，这家刚成立的公司迅速起步了。
+	
+freebie ['fri:bi] n.免费赠品
+	例：The consumers can get freebies once they spend up to 300 yuan in this supermarket.
+	消费者在这家超市消费满300元可以获得免费赠品。
+	
+conditional [kən'dɪʃənl] adj.有条件的；有前提的
+	商：conditional contract 有条件的合同；暂行契约/conditional discharge 有条件释放令/conditional approval 有条件性批准/conditional acceptance 有条件承兑
+	派：conditionally adv.有条件地
+	写作小站：
+	Please ensure that our goods can be delivered on time as the payment is conditional upon the receipt of them.
+	请确保贵方能及时发货，因为收到货物后我方才能付款。
+	
+tax [tæks] vt.收税，征税；给...造成负担，使超过极限 n.税收
+	例：It is said that the government do not tax non-profit organisations in American.
+	据说美国政府不向非营利机构征税。
+	商：value added tax 增值税/tax return 纳税申报单/tax bracket 纳税(税率)等级/tax evasion 漏税，逃税
+	搭：raise/cut taxes 增加/消减税收/before/after tax 纳税前/后
+	派：taxation n.税收；征税(例：multiple taxtion 多重课税)/taxable adj.应征税的(例：taxable income 应纳税收入)/tax-deductible adj.可以免税的(例：tax-deductible expense/income 可免税支出/收入)
+	
+abroad [ə'brɔːd] adj.在国外的 adv.往国外；在国外
+	例：The cost of borrowing abroad keeps rising currently.
+	目前国外借入成本不断上涨
+	搭：go abroad 出国/at home and abroad 在国内外
+	
+interview ['ɪntəvju:] vt./n.面试；采访
+	搭：interview with sb. 和某人面谈；会晤；采访某人
+	派：interviewee n.被面试的人/interviewer n.主持面试的人，招聘者/interviewing n.面试；采访
+	听说小站：
+	M: I did not see George during the interview.
+	我在面试时没有看到乔治
+	W: Oh, he was employed by recommendation.
+	噢，他是经人推荐而被雇用的。
+	
+automate ['ɔːtəmeɪt] v.(使)自动化，(使)自动操作
+	例：Some ambitious factories invest massively to automate the production process.
+	一些有雄心的工厂投巨资来实现生产流程的自动化
+	派：automation n.自动化/automatic adj.自动的[例：on automatic pilot(做事像自动驾驶仪一般)机械地，不假思索地]
+	
+slide [slaɪd] n.滑，滑行；滑面；跌落；幻灯片 v.(使)滑动；(使)滑落；跌落；悄悄或偷偷移动
+	例：The consumer product index has slid to the lowerst level for 24 months.
+	消费者价格指数已经跌至24个月以来的最低点。
+	商：slide show 幻灯片放映
+	搭：on the slide 日益恶化/slide down 往下滑/slide into (使)滑进；(使)不知不觉地陷入/let...slide 任...恶化而不予处理，放任自流
+	
+boom [bu:m] n.(营业额等的)激增，(经济等的)繁荣，迅速发展；隆隆声，嗡嗡声 vi.激增，繁荣，迅速发展；发出隆隆声
+	例：The Chinese economy is booming, especially in housing and construction.
+	中国经济正蓬勃发展，尤其是在房地产业和建筑业方面。
+	商：market boom 市场繁荣/boom and bust 繁荣和萧条/boom period 繁荣期
+	搭：baby boom 生育高峰期
+	派：booming adj.繁荣的；蓬勃发展的(例：booming tourist industry 蓬勃发展的旅游业)
+	
+showroom ['ʃəʊru:m] n.(样品)陈列室
+	例：The customer visited our showroom and chose the samples that she liked best.
+	这位顾客参观了我们的陈列室，并选择了她最喜欢的样品。
