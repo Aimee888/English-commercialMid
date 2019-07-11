@@ -1154,3 +1154,62 @@ boom [bu:m] n.(营业额等的)激增，(经济等的)繁荣，迅速发展；�
 showroom ['ʃəʊru:m] n.(样品)陈列室
 	例：The customer visited our showroom and chose the samples that she liked best.
 	这位顾客参观了我们的陈列室，并选择了她最喜欢的样品。
+	
+	
+	
+Day21
+
+headhunt ['hedhʌnt] v.(猎头公司等)挖(人才)，物色(人才等)
+	例：Many companies try to headhunt talent to strengthen their competitivensess.
+	许多公司都试图挖人才来增强公司的竞争力。
+	派：head-hunter n.猎头公司；物色人才者/headhunting n.挖人才，物色人才
+	
+initial [ɪ'nɪʃl] adj.初步的，初始的 n.(名字的)首字母 vt.在文件上签上姓名的首字母
+	例：During the initial stage, our business was not so satisfying.
+	在起步阶段，我们的业务不太令人满意。
+	派：initially adv.最初，首先；开头/initialise vt.初始化
+	
+resistance [rɪ'zɪstəns] n.反抗；抵制；抵抗力；阻力；电阻
+	例：The government wanted big cuts in export subsidied of textile products, but this has met strong resistance.
+	政府想大幅度消减纺织品出口补贴，但此举遭到强烈抵制。
+	搭：resistance to 抵抗;反对/passive resistance 消极抵抗
+	派：resistant adj.抵抗的
+	
+lose [lu:z] vt.遗失；失去；失败 vi.失败；放弃
+	例：The company has lost many customers to its rivals.
+	这家公司的许多客户被对手抢走了。
+	搭：lose touch/contact with 与...失去联系/lose onself in 陶醉于/lose out to 输出；被...所取代/have nothing to lose 已经再无可失了；没什么可牵挂的了
+	派：loser n.失败者，失主
+	
+fee [fi:] n.费用，酬金
+	商：fees charged 收取的费用/legal fee 诉讼费
+	搭：entrance fee 门票，入场费
+	
+transparent [træns'pærənt] adj.透明的；显而易见的；坦率的；易懂的
+	例：The board required every department to make their accounts as transparent as possible.
+	董事会要求每个部门使其账目尽可能透明。
+	派：transparently adv.显而易见地；坦白率直地/transparency n.透明，透明度；幻灯片
+	
+approval [ə'pru:vl] n.赞成，同意；批准，认可
+	商：approval documents 批准文件/approval of product quality and style 确认产品质量和样式
+	搭：give approval to 批准/meet with approval 得到批准/seek approval 寻求认可
+	派：disapproval n.不赞成；不批准
+	听说小站：
+	M： Has our new investment project started yet?
+	我们新的投资项目开工了没有？
+	W: Not yet, it still needs the approval of relevant departments.
+	还没有，还需要相关部门的批准。
+	
+click [clɪk] vt.点击；使发出咔哒声 vi.作咔哒声 n.单击；滴答声
+	例：Some websites make up sensational stories to achieve a high click rate.
+	一些网站编造耸人听闻的故事来获得高点击率
+	派：clickable adj.(电脑)可以点击的
+	
+proposal [prə'pəʊzl] n.方案，计划；投保单
+	商：business proposal 商业计划书
+	搭：put forward/submit/reject a proposal 提出/提交/否决方案/fill in a proposal 填写投保单
+	
+jurisdiction [,dʒʊərɪs'dɪkʃn] n.权限；司法权，审判权；裁判权
+	例：We are not sure whether the local court has jurisdiction over intellectual property disputes.
+	我们不确定地方法院是否拥有知识产权纠纷的审判权。
+	派：jurisdictional adj.司法的；司法权的；管辖权的
