@@ -1213,3 +1213,95 @@ jurisdiction [,dʒʊərɪs'dɪkʃn] n.权限；司法权，审判权；裁判权
 	例：We are not sure whether the local court has jurisdiction over intellectual property disputes.
 	我们不确定地方法院是否拥有知识产权纠纷的审判权。
 	派：jurisdictional adj.司法的；司法权的；管辖权的
+	
+	
+	
+Day22
+
+endeavour [ɪn'devə(r)] n./vi.努力，尽力
+	搭：endeavour to do sth.尽力做某事
+	听说小站：
+	M: The customer is quite strict with product quality.
+	这个客户对产品质量要求很严格。
+	W: OK! We will make very endeavour to meet our customer's demands.
+	好的！我们会尽最大努力来满足客户的要求。
+	
+relatively ['relətɪvli] adv.相当地；相对地，比较地
+	例：This is a relatively high-end brand on China's domestic market.
+	这在中国国内市场上是一个相对高端的品牌。
+	搭：relatively speaking 相对来说
+	
+gilt [gɪlt] adj.镀金的，烫金的；金色的 n.[pl.]金边证券(指高度可靠的证券)；镀金
+	例：We hurried to the restaurant for a dinner but it was closed, which took the gilt off the gingerbread.
+	我们匆匆去那家饭店吃晚餐，但是它不营业，真令人扫兴
+	商：buy/issue gilts 购买/发行金边证券/exempt gilts 免税金边证券/gilt bill 优良支票/gilt lettering 烫印的金字
+	搭：take the gilt off the gingerbread 使失去吸引力；令人扫兴
+	
+subcontract [,sʌbkən'trækt] vt.分包或转包(工程项目)；订立分契，订立转契
+	例：In order to ensure the quality of the project, you are only allowed to subcontract the part that requires fewer techniques.
+	为了确保工程质量，你方只能将技术要求较低的那部分工程转包。
+	商：subcontract agreement 转包协议
+	派：subcontracting n.分包；订立转契；工业转包/subcontractor n.分包商
+	
+
+
+
+Day22
+
+clone [kləʊn] n./v.克隆；复制
+	例：You can clone products of Mr.Jobs, but not his concept of creation and road to success.
+	你有可能复制乔布斯先生的产品，但不可能复制他的创作理念和成功之路。
+	搭：clone technology 克隆技术/gene clone 基因克隆
+	
+production [prə'dʌkʃn] n.制造，生产；总产量
+	商：increase/reduce production cost 增加/减少生产成本/production line 生产线/production manager 生产经理
+	搭：in (mass) production 在(大规模)生产中/put sth. into production 把某物投入生产
+	
+anecdote ['ænɪkdəʊt] n.轶事，奇闻；传闻
+	例：All of his stories on establishing business are just anecdote.
+	所有关于他创业的故事都只是传闻而已。
+	派：anecdotal adj.轶事的；趣闻的；传闻的
+	
+realise ['ri:əlaɪz] vt.实现；把(证券等)变成现金；认识到，了解
+	例：The government began to realise the seriousness of the environmental pollution and took some messures to fight against it.
+	政府开始认识到环境污染的严重性，并采取了一些应对措施
+	商：realise the asset/property 把资产/房地产变现
+	搭：realise one's full potential 发挥某人所有的潜能
+	派：realisable adj.可实现的/realisation n.实现
+	
+elite [eɪ'li:t] n.精英，杰出人物 adj.精英的，杰出的
+	例：The rapid local economic development is mainly due to the contribution of an elite group of entrepreneurs.
+	当地经济的快速发展主要得益于一批出类拔萃的企业家
+	商：business elite 商业精英/intellectual elite 只是分子精英
+	派：elitsm n.精英主义/elitist n./adj.杰出人物；精英主义的
+	
+settle ['setl] v.解决；偿清，付还；决定；(使)定居，安定；(使)沉淀
+	商：settle an account 结账/settle a debt 清偿负债
+	搭：settle a dispute 解决争端/settle out of court 庭外和解/settle down 定居/settle in/into sth.安顿下来；适应(新工作)
+	派：settled adj.不变的，稳定的；固定的
+	听说小站：
+	M: We haven't got the compensation from the insurance company yet.
+	我们还没有收到保险公司的赔偿金。
+	W: You should push them to settle the claim as soon as possible.
+	不应该督促他们尽快理赔
+	
+voluntary ['vɒləntri] adj.自愿的，主动的；志愿的；由意志控制的
+	例：The staff complained that the company took working overtime as voluntary and unpaid.
+	员工抱怨公司把加班当作是自愿的，不支付加班费。
+	商：voluntary agreement 自愿协议/voluntary liquidation 自动清盘/voluntary redundancy 自愿接受裁退
+	派：voluntarily adv.自愿地
+	
+own-label [,əʊn'leɪbl] adj.自有品牌的；使用本公司商标的
+	例：It is urgent for us to develop our own-label products to strengthen our competitive edge.
+	我们急需开发自有品牌的产品来增强竞争力
+	
+cross over 横穿；过渡，转变
+	例：Economic development could lift people's level of appreciation and make classic arts cross over to mass appeal.
+	经济发展能提升人们的欣赏水平，使古典艺术为大众所喜爱。
+	
+comprise [kəm'praɪz] vt.包含；由...组成；形成，构成
+	听说小站：
+	M: Does your company mainly conduct import or export business?
+	贵公司主要做进口业务还是出口业务？
+	W: Export business. The sales of overseas markets comprise 80% of our total sales volume.
+	出口业务。海外市场的销售额占我们总销售额的80%.
