@@ -1351,3 +1351,65 @@ re-present [,ri:prɪ'zent] vt.在出示
 	
 vigorous ['vɪgərəs] adj.有力的；精力充沛的
 	派：vigorously adv.精力旺盛地；强有力地
+	
+	
+Day24
+
+challenge ['tʃælɪndʒ] n.挑战；质疑 vt.质疑；向...挑战；指责 vi.提出挑战
+	例：No one dares to challenge the president's authority in the company.
+	公司内没有人敢挑战董事长的权威。
+	搭：challenged adj.(委婉语)伤残的，有缺陷的/challenger n.挑战者(例：the challenger for Guinness world record 吉尼斯世界纪录的挑战者)/challenging adj.挑战的；引起挑战兴趣的(例：a challenge task 有挑战性的任务)
+	
+generate ['dʒenəreɪt] vt.造成(某种情况)，使...发生
+	例：This new project will generate new jobs for the local area.
+	这个新的项目将给当地带来新的就业机会。
+	商：generate income/profit 产生收入/利润 
+	派：generation n.产生；繁殖；一代/generative adj.有生产力的；生殖的
+	
+assembly [ə'sembli] n.立法机构；议会；集会，集合；组装，装配
+	商：assembly line 装配线/assembly plant 装配工厂
+	搭：assembly manual 装配手册/National Assembly 国民议会(指法国等国家的下议院)
+	
+mighty ['maɪti] adj.强有力的；有势力的 adv.非常，很
+	搭：high and mighty 趾高气扬的；神气活现的
+	派：mightily adv.很，非常；强烈地
+	写作小站：
+	It was beyond everyone's expectation that the once mighty American housing industry collapsed overnight.
+	出乎所有人意料，曾经繁荣的美国房地产业一夜之间就崩溃了。
+	
+denounce [dɪ'naʊns] vt.谴责；告发；正式通知废除(协定等)，声明...无效
+	例：The projects strengthening the officials' image is denounced as a sheer waste of taxpayers' money.
+	该政府官员形象工程遭到人们的谴责，认为这纯粹是浪费纳税人的前。
+	派：denounciation n.谴责；揭发
+	
+wholesale ['həʊlseɪl] n.批发 adj./adv.批发的(地)；大规模的(地)
+	例：The vendors buy wholesale and sell retail to exploit the difference in pricing.
+	小贩们成批购入货物，然后零售，以赚取中间差价。
+	商：wholesale price 批发价/wholesale business 批发业务/wholesale market 批发市场
+	派：wholesaler n.批发商/wholesaling n.批发业 
+	
+attract [ə'trækt] vt.吸引；引起 vi.吸引；有吸引力；引人注意
+	商：attract investment 吸引投资
+	搭：attract sb. to do sth.吸引某人做某事/attract criticism 招致批评
+	派：attraction n.吸引/attractive adj.吸引人的 
+	听说小站：
+	M: China is becoming the ideal place for investment. What factors attract the investors?
+	中国正逐渐成为投资的理想场所。哪些因素吸引了投资者呢？
+	W: I think they are the good political environment, cheaper labour resources and a potential huge market.
+	我认为这些因素应当是好的政策环境、廉价的劳动力资源和潜在的广阔市场。
+	
+workforce ['wɜːkfɔːs] n.劳动力；工人总数，职工总数
+	商：workforce diversity 劳动力多元化
+	
+tangible ['tændʒəbl] adj.有形的；可触摸的；切实的
+	例：The effective cooperation of these two countries has brought tangible benefits to both peoples and contributed to world peace, stability and prosperity.
+	两国间的有效合作为两国人民带来了实实在在的利益，也促进了世界的和平、稳定和繁荣。
+	商：tangible assets 有形资产
+	派：intangible adj.无形的(例：intangible assets 无形资产)/tangibly adv.有形地；可触知地；明白地
+	
+reserve [rɪ'zɜːv] n.储备金；准备；保护区 vt.储备，保存；预约，预定
+	例：Don't worry! The hotel has reserved rooms for us. 
+	不要担心！宾馆已经为我们预留了房间。
+	商：legal reserve 法定储备金/reserve fund 储备金/reserve capital 储备股本/reserve currency 储备货币/foreign exchange reserve 外汇储备/reserve price 保留价格；最低价格
+	搭：all rights reserved 版权所有/reserve the rights to do sth. 保留做...的权利/be reserves for 为...专用；为...留出/in reserve 储备；备用/wildlife reserve 野生动物保护区
+	派：reserved adj.内向的，寡言少语的
