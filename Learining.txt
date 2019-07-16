@@ -1413,3 +1413,57 @@ reserve [rɪ'zɜːv] n.储备金；准备；保护区 vt.储备，保存；预�
 	商：legal reserve 法定储备金/reserve fund 储备金/reserve capital 储备股本/reserve currency 储备货币/foreign exchange reserve 外汇储备/reserve price 保留价格；最低价格
 	搭：all rights reserved 版权所有/reserve the rights to do sth. 保留做...的权利/be reserves for 为...专用；为...留出/in reserve 储备；备用/wildlife reserve 野生动物保护区
 	派：reserved adj.内向的，寡言少语的
+	
+	
+	
+Day25
+
+spectrum ['spektrəm] n.范围；领域；光谱；声谱
+	例：This large group of research and development is composed of specialists from a wide spectrum of professions.
+	这个大型的研发团队是由各行各业的专业人士组成的。
+	搭：across the spectrum 跨领域；各方面
+	
+customer ['kʌstəmə(r)] n.顾客，用户
+	商：customer base 客户群，客户基础/customer profile 客户概况/customer relation 客户关系/customer service 售后服务/regular customer 常客
+	
+stag [stæg] n.购买新上市股票的人，股票投机者 adj.只限男子参加的
+	例：The crash of the stock market resultd in many stags going bankrupt.
+	股票市场的崩溃导致许多股票投机者破产
+	
+safety ['seɪfti] n.安全；安全性；安全处所
+	例：The factory carries out safety checks at least once a month.
+	这家工厂至少每月进行一次安全检查
+	搭：safety level 安全水平/safety measure(s)安全措施/for one's own safety 为了某人的安全
+	
+takeaway ['teɪkəweɪ] n.外卖食品；外卖餐馆 adj.外卖的
+	例：The restaurant began to provide a takeaway service to meet the needs of office workers.
+	这家餐馆开始提供外卖服务以满足上班族的需要
+	
+dump [dʌmp] v.倾倒；倾销 n.垃圾场
+	例：No country is allowed to dump their products on the Chinese market.
+	任何国家都不得向中国市场倾销商品
+	搭：garbage dump 垃圾场
+	派：dumping n.倾倒；倾销(例：anti-dumping duty 反倾销税)/dumper n.倾卸工
+	
+rarely ['reəli] adv.很少地，难得，罕有地
+	例：We rarely abtain an order of such a large amount, especially in the situation of the economic downturn.
+	我们很少得到量这么大的订单，尤其是在经济低迷的形势下。
+	
+resident ['rezɪdənt] adj.(在某地)居住的 n.居民
+	例：The overseas marketing director of the company needs to be resident in the US.
+	这家公司的海外市场总监必须是在美国定居的人。
+	搭：resident expert 常驻专家；当地专家
+	派：residential adj.适合居住的；住宅的；需要在某地居住的；提供食宿的(例：residential area 居民区)
+	
+bust [bʌst] adj.破产的 vi.爆裂；破产；被降级；崩溃 vt.使爆裂，破坏；开除；搜查，逮捕 n.爆裂；(经济)崩溃；半身雕像
+	商：go bust 破产
+	搭：bust a gut 努力(做某事)，拼命干
+	派：busted adj.破产的；破碎的
+	写作小站：
+	To make things worse, the staff raced to leave the company due to being badly paid, which made the beleaguered company go bust.
+	雪上加霜的是，员工因待遇不加纷纷离开公司，这使得这家本来就处于困境的公司倒闭了。
+	
+precisely [prɪ'saɪsli] adv.精确地；恰恰
+	例：After getting the product costs, we are able to precisely set the price of the products.
+	我们在得知产品成本后就能够为产品准确定价了
+	搭：more precisely 更确切的说
