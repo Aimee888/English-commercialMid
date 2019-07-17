@@ -1467,3 +1467,59 @@ precisely [prɪ'saɪsli] adv.精确地；恰恰
 	例：After getting the product costs, we are able to precisely set the price of the products.
 	我们在得知产品成本后就能够为产品准确定价了
 	搭：more precisely 更确切的说
+	
+	
+Day26
+
+bounce [baʊns] vt.使弹起，使反弹，使跳起 vi.弹起，反弹，跳起；支票被银行退票 n.弹，反弹
+	例：The consumer confidence index began to bounce back with the economic recovery
+	随着经济的复苏，消费者信心指数开始大幅度提升
+	商：bounce back(价格等)下跌后大幅度反弹
+	搭：bounce a cheque 退回支票/bounce in equities 股市反弹
+	派：bouncy adj.跳跃的；有弹性的；快活的；精神饱满的/bouncing adj.健壮的，茁壮的
+	
+provision [prə'vɪʒn] n.规定；条款；准备；供应品 vt.供给...事物及必需品
+	搭：make provision for 为...作好准备；为...预先采取措施/provision sb./sth. with 为...提供 
+	派：provisonal adj.临时的，暂时的；暂定的(例：provisional liquidator 临时清盘人/provisional rule 暂行规定/provisional government 临时政府)
+	写作小站：
+	No party is entitled to unilaterally alter, modify or waive any provision of this contract.
+	任何一方无权单方面变更、修改或免去合同中任何条款
+	
+notify [,nəʊtɪfaɪ] vt.通知，宣告，公布
+	例：Please notify us of the tracking number once you send out the samples.
+	商品寄出后，请告知我们快递追踪号
+	
+extraxt [ɪk'strækt] vt.提取；索取；选取 ['ekstrækt] n.摘录；选录；提取物
+	例：Several years ago, the trade figures could be extracted from export-and-import documentation at ports.
+	几年前，贸易数据还可以从各港口的进出口单证中提取到。
+	搭：extract sth. from sth. 从...中提取(获取)/an extract from novel 小说中节选的一段
+	派：extraction n.(例：oil/mineral extraction 石油/矿物开采)/extractive adj.抽取的，萃取的/extractor n.提取器；分离器
+	
+steadily ['stedəli] adv.稳定地，平稳地；有规则地
+	例：The per capita disposable income of urban residents kept on growing steadily in our city.
+	我市城镇居民人均可支配收入继续保持稳步增长
+	
+data ['deɪtə] n.资料，数据(datum的复数)
+	搭：data mining 数据挖掘/data processing 数据处理/data protection 数据保护/data capture 数据捕捉
+	
+rally ['ræli] n.(价格等)降后回升；集会，(群众)大会；汽车拉力赛 v.集合；团结；恢复(健康等)
+	例：The stock market did not begin to rally until the close of trading.
+	股市大盘直到快收盘时才开始回升
+	商：rally in share market 股票市场的止跌回升
+	搭：rallying point 集结点；有感召力的人(或团体、事件等)；号召力/hold a rally 召开大会
+	
+branch [brɑːntʃ] n.树枝；(机构的)分部；分支；支线 vi.分支；出现分歧
+	例：KFC is a famous international chain restaurant and now it has over 4000 branches in China.
+	肯德基是一家知名的国际连锁餐厅，目前它在中国的分店已经超过4000家。
+	商：overseas branch 海外分支机构/branch office 分支机构，办事处
+	搭：establish/set up a branch 建立分支机构/branch out into sth. 拓展到新的领域
+	
+conquer ['kɒŋkə(r)] v.战胜，征服；攻克
+	例：A successful businessman must conquer his fear of competition.
+	一个成功的商人必须克服对竞争的恐惧
+	搭：conquer the world 征服世界
+	派：conqueror n.征服者/unconquerable adj.不可征服的
+	
+words of wisdom 至理名言；智慧箴言
+	例：He admires the sales manager very much and takes all that he says as words of wisdom.
+	他非常崇拜这位销售经理，并把他所说的话都当作至理名言。
