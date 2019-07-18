@@ -1523,3 +1523,64 @@ conquer ['kɒŋkə(r)] v.战胜，征服；攻克
 words of wisdom 至理名言；智慧箴言
 	例：He admires the sales manager very much and takes all that he says as words of wisdom.
 	他非常崇拜这位销售经理，并把他所说的话都当作至理名言。
+	
+	
+Day27
+
+advertise ['ædvətaɪz] v.公布，通告；(为...)做广告
+	例：It was time to advertise our new service.
+	是时候宣传一下我们的新服务了
+	派：advertisement n.广告；宣传/advertiser n.广告商/advertising n.广告业；做广告(例：advertising campaingn 广告活动)
+
+autocratic [,ɔːtə'krætɪk] adj.专制的，独裁的
+	例：Autocratic management is the biggest obstacle of enterprise innovation.
+	专制管理是企业创新最大的障碍
+	派：autocracy n.独裁；独裁统治；独裁政府/autocratically adv.专制地，独裁地
+	
+phase out 逐步停止
+	例：The government will phase out all subsidies to private companies in the next five years.
+	政府将在未来五年内逐步取消对私人企业的所有补贴。
+	
+distribute [dɪ'strɪbju:t] vt.分发，分配；分销；使分布，散布
+	商：distribute a bonus/dividend 分发红利/股息
+	搭：be widely distributed 广泛分布的
+	派：distribution n.分配；发行，配送(例：distribution channel 分销渠道/distribution cost 分销成本/distribution company 分销公司)
+	听说小站：
+	M: Goods should be distributed to our customers immediately. Why are they still in the warehouse?
+	货物应该在第一时间配送给我们的客户。为什么它们现在还在仓库？
+	W: I am sorry! We just receieved the goods yesterday afternoon.
+	对不起！我们昨天下午才收到货
+	
+glory ['glɔːri] n.光荣，荣誉 vi.高兴；喜悦；自豪
+	例：The company had wished to return to its former glory, but the business is getting harder and harder.
+	这家公司一直想恢复昔日的辉煌，可是生意却一天比一天难做。
+	搭：glory days 昔日的辉煌/cover onself with glory 取得辉煌胜利，满载荣誉/in one's glory 处于全盛时期
+	派：glorious adj.辉煌的；荣誉的；极好的
+	
+block [blɒk] n.块，方块；街区；大厦；障碍物 vt.阻止；阻塞；限制
+	例：The high tariff effectively blocked the import of vehicles from other countries.
+	高额的关税有效的限制了汽车从别国进口
+	搭：office block 办公大楼/block diagram 方块图；方形图/block release 脱产进修
+	派：blockade n.障碍物，阻碍物 vt.实行封锁；阻塞/blockade n.堵塞；堵塞物
+	
+flawed [flɔːd] adj.有缺陷的；有瑕疵的；有裂纹的
+	商：flawed products 次品
+	搭：flawed argument 有漏洞的论点
+	
+commerce ['kɒmɜːs] n.贸易，商业
+	商：Chamber of Commerce 商会/industry and commerce 工商业
+	写作小站：
+	Electronic commerce is becoming more and more popular and is applied in various industries, while online sale is a basic manifest of it.
+	电子商务正变得越来越流行，并被应用于各种行业，而网上销售正式其基本体现
+	
+virtual ['vɜːtʃuəl] adj.虚拟的；实质上的
+	例：The national economy of the country is sliding into a state of virtual economic paralysis.
+	该国的国民经济正逐步陷入一种实质上的瘫痪状态
+	搭：virtual reality 虚拟现实/virtual memory 虚拟内存
+	派：virtually adv.几乎；事实上；实质
+	
+icon ['aɪkɒn] n.图标；偶像；肖像；画像；圣象
+	例：Steven Jobs has become the icon of many college students.
+	史蒂文 · 乔布斯已成为许多大学生的偶像。
+	搭：warning icon 警告图标
+	派：iconic adj.图像的；图标的；偶像的
