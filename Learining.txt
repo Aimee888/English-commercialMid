@@ -1584,3 +1584,58 @@ icon ['aɪkɒn] n.图标；偶像；肖像；画像；圣象
 	史蒂文 · 乔布斯已成为许多大学生的偶像。
 	搭：warning icon 警告图标
 	派：iconic adj.图像的；图标的；偶像的
+	
+	
+Day28
+
+pirate ['paɪrət] n.非法盗印(或复制)者；盗版；海盗 vt.盗印，盗版
+	例：The Chinese government should perfect the intellectual property law to fight against piracy and pirates
+	中国政府应该完善知识产权法来打击盗版行为和盗版者
+	商：pirated computer game/video 盗版电脑游戏/视频/software pirate 制作盗版软件者
+	派：piracy n.剽窃；盗版/piratical adj.海盗的；盗版的(例：piratical product 盗版产品)
+	
+instrument ['ɪnstrəmənt] n.工具；手段；被他人利用者
+	商：financial instrument 金融工具/monetary policy instrument 货币政策工具
+	搭：musical instrument 乐器
+	派：instrumental adj.起作用的；用乐器演奏的
+	
+register ['redʒɪstə(r)] n./v.登记(薄)，注册(薄)；挂号
+	例：We are afraid that you can't enjoy the discount because er don't have your name on our VIP register.
+	不好意思，您不能享受折扣，因为您不是我们的贵宾会员。
+	商：registered capital 注册资本/registered company 注册公司/registered post 挂号邮寄/registered trademark 注册商标/hotel register 旅店登记薄
+	派：registration n.登记，注册(例：registration fee 注册费)
+	
+zero defect 无事故；零缺陷；合格产品
+	例：Though our product quality is continuously improving, it is far from zero defect.
+	尽管我们的产品质量不断提高，但是距离零缺陷还有很大的差距
+	
+cooperate [kəʊ'ɒpəreɪt] vi.合作，配合；协力
+	例：I sincerely hope national enterprises could cooperate with each other to boost the development of the national econnomy
+	我真诚地希望民族企业能够相互配合，共同促进国民经济的发展。
+	搭：cooperate with ab. in/on sth. 在某方面同某人合作
+	派：cooperation n.合作，协作(例：business cooperation 商务合作)/coordinative adj.合作的
+	
+cut-throat ['kʌtθrəʊt] adj.残酷的；凶狠的
+	例：In the globalised market, enterprises have to face cut-throat competition in order to survive.
+	在全球化的市场上，企业为了生存必须面对激烈的竞争。
+	
+abort [ə'bɔːt] vt.使流产；使终止 vi.流产；(计划等)中途失败、夭折
+	例：We have no alternative but to abort the plan 我们别无选择，只能放弃这个计划
+	派：abortion n.堕胎/abortive adj.不成功的，失败的(例：abortive attempt 失败的尝试)
+	
+preliminary [prɪ'lɪmɪnəri] n.准备；预赛；[常pl.] 初步措施 adj.初步的；预备的
+	例：The government should take some preliminary measures to prevent the spread of strikes
+	政府应该采取初步措施来阻止罢工的蔓延
+	搭：preliminary contest 初赛/go through the preliminary 通过初赛
+	
+take-off ['teɪkɒf] n.起飞
+	例：The government is sparing no effort to promote the take-off of the manufacturing industry.
+	政府在不遗余力地促进制造业的腾飞
+	
+cheque [tʃek] n.支票；餐馆的账单；阻碍
+	商：cross cheque 画线支票，横线支票/cheque book 支票簿/pay by cheque 以支票偿付/blank cheque 空白支票/cash cheque 现金支票/endorse a cheque 支票背书
+	听说小站：
+	M: It has become much easier to travel with this cheque.
+	带着这张支票去旅行可就方便多了
+	W: Not exactly. It must be cashed at the designated mask bank
+	并不完全如此。它必须到指定的银行兑换
