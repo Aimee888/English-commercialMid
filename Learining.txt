@@ -1489,7 +1489,7 @@ notify [,nəʊtɪfaɪ] vt.通知，宣告，公布
 	例：Please notify us of the tracking number once you send out the samples.
 	商品寄出后，请告知我们快递追踪号
 	
-extraxt [ɪk'strækt] vt.提取；索取；选取 ['ekstrækt] n.摘录；选录；提取物
+extract [ɪk'strækt] vt.提取；索取；选取 ['ekstrækt] n.摘录；选录；提取物
 	例：Several years ago, the trade figures could be extracted from export-and-import documentation at ports.
 	几年前，贸易数据还可以从各港口的进出口单证中提取到。
 	搭：extract sth. from sth. 从...中提取(获取)/an extract from novel 小说中节选的一段
