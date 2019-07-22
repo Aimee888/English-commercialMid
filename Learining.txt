@@ -1732,3 +1732,58 @@ file [faɪl] n.档案，文件；文件夹，公文柜 vt.把(文件)归档；�
 	写作小站：
 	If the employees are caught disclosing our business secrets to other companies, we shall file a complained with the relevant departments.
 	一旦发现有员工向其他公司泄露本公司的商业秘密，我们将向有关部门提出申诉。
+	
+	
+Day30
+
+proprietor [prə'praɪətə(r)] n.所有者，经营者
+	例：The proprietor is responsible for all the business.
+	经营者对所有业务负责
+	商：restaurant proprietor 餐馆老板
+	派：proprietorship n.经营者；独资企业/proprietorial adj.业主的；所有的，所有权的(例：proprietorial right 所有权)
+	
+line [laɪn] n.(产品)种类；生产线；线条；路线；行业 vt.使排成一行；用线标示 vi.排队
+	商：assembly line 装配线；流水线/production line 生产线/line process 流水线加工/line worker 流水线工人/line manager 生产经理
+	搭：line in a queue 排成一行
+	派：linear adj.线状的/lined n.画有横线的；有衬里的/lineal adj.直系的；嫡系的
+	
+fiduciary [fɪ'dju:ʃəri] n.受托人 adj.信托的
+	例：Once the two parties make a fiduciary relationship, the agent shall not breach the fiduciary duty.
+	一旦双方构成受托关系，代理人就不应该违反受托责任
+	商：act as a fiduciary 充当受托人/fiduciary position/relation 受托地位/关系
+	
+native ['neɪtɪv] adj.本国的；土著的；天然的 n.本地人，当地居民；土产
+	例：Cultural globalisation mainly refers to the identification of cultures and values exceeding native boundaries.
+	文化全球化主要指的是对文化和价值观的认同超越本国的界限。
+	搭：native country 祖国/native speaker 说母语的人/native intelligence 与生俱来的智慧
+	
+fraud [frɔːd] n.欺诈行为；骗子；假货
+	例：He was accused of credit card fraud one week ago.
+	他一周前被指控进行信用卡欺诈。
+	派：fraudulent adj.欺骗的，不诚实的/fraudster n.骗子
+	
+justify ['dʒʌstɪfaɪ] vt.证明...是正当的；替...辩护
+	例：Many immoral businessmen and politicians embrace the principle that the end justifies the means.
+	许多道德低下的商人和政客奉行的原则是为达目的不择手段
+	派：justifiable adj.有理由的；正当的/justified adj.(人或行为等)正当的；有正当理由的
+	
+server ['sɜːvə(r)] n.服务器；发球员；侍者；托盘
+	例：Please make sure that you download the file from secure server.
+	请确保你是从一个安全的服务器上下载的这个文件。
+	搭：print server 打印服务器/mail server 邮件服务器
+	
+minister ['mɪnɪstə(r)] n.部长；大臣；牧师 vi.照料，服侍
+	商：cabinet minister 内阁部长/prime minister 首相；总理
+	搭：minister to sb./sth.照料；援助
+	派：ministerial adj.部长的；大臣的(例：hold ministerial office 担任部长职务)
+	
+mimic ['mɪmɪk] vt.模仿，模拟 n.模仿者
+	例：Maybe you can mimic this businessman's way of doing things, but you can never learn his way of thinking.
+	或许你能模仿这位商人的做事方式，但你永远也学不会他的思维方式
+	派：mimicry n.模仿 
+	
+correlate ['kɒrəleɪt] v.互相关联；联系 ['kɒrələt] n.相关物；相关联的人 adj.关联的
+	例：One's salary correlates with his or her work performance in our company.
+	在我们公司，一个人的薪水是和他/她的工作表现相关联的。
+	搭：correlate with 和...相关物；相关
+	派：correlation n.相互关系/correlative adj.紧密相关的；相互关联的
