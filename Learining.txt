@@ -1787,3 +1787,66 @@ correlate ['kɒrəleɪt] v.互相关联；联系 ['kɒrələt] n.相关物；相
 	在我们公司，一个人的薪水是和他/她的工作表现相关联的。
 	搭：correlate with 和...相关物；相关
 	派：correlation n.相互关系/correlative adj.紧密相关的；相互关联的
+	
+	
+Day31
+	
+factory ['fæktri;'fæktəri] n.工厂；代理电
+	商：factory gloor 厂区/factory building 工厂厂房/factory worker 工厂工人
+	
+date [deɪt] n.日期；年代；约会；枣 vi.过时；注明日期；始于 vt.确定...的年代；和...约会 
+	例：The friendly cooperation between our countries dated from the 17th century.
+	我们两国的友好始于17世纪。
+	搭：fix a date 确定日期/birth date 出生日期/blind date (由第三方安排的)男女初次约会/dating skill 约会技巧/date back to/date from 追溯到/to date 迄今为止
+	派：dated adj.过时的，陈旧的(例：dated idea 过时的想法)
+	写作小站：
+	Thank you for your letter dated July 8th. We will arrange production according to your requirements as soon as possible.
+	谢谢您7月8号的来函。我方会尽快按照贵方的要求安排生产。
+	
+domain [də'meɪn;dəʊ'meɪn] n.领域；范围；领土；域名
+	例：Business is a very attractive domain for ambitions people.
+	商业对于有野心的人来说是一个很有吸引力的领域
+	商：domain name 域名
+	
+dominant ['dɒmɪnənt] adj.支配的，通知的；占优势地；显著的
+	例：He was a dominant figure in the America business industry.
+	他在美国商业是个举足轻重的人物
+	商：dominant businessman 有势力的商人/dominant position 统治地位
+	派：dominance n.支配，控制(例：economic dominance 经济主导地位)
+	
+deny [dɪ'naɪ] vt.否定，否认；拒绝给予；拒绝...的要求
+	搭：There is no denying that.../It cannot be denied that...无可否认的是...
+	派：denial n.否认；拒绝给予(例：in denial 拒绝接受，拒不承认)
+	听说小站：
+	M: Why do you look so upset yoday?
+	你今天怎么看起来这么不开心呢？
+	W： The security guard denied our access to the factory.
+	保安人员不让我们进工厂
+	
+retain [rɪ'teɪn] vt.保持，保留；聘请(律师等)
+	例：Though the company is gradually declining, it still retains huge influence in the local market.
+	尽管这家公司在逐渐衰退，但它在当地市场上仍然保持着巨大的影响力。
+	商：retained earnings/profit 留存利润；未分配利润/retaining fee 律师费；聘用定金
+	派：retainer n.预付费用；租房定金/retaining adj.固定的；矫正的
+	
+budget ['bʌdʒɪt] n.预算，预算案；预算拨款，专款 v.拨款；安排
+	例：The annual budget will be reduced due to the economic recession 
+	由于经济衰退，年度预算将被消减。
+	商：budget account 预算账户/budget report 预算报告/budget revenue 预算收入/budget schedule 预算明细表
+	搭：overshoot a budget 超出预算/set a budget 制定预算
+	派：budgeting n.编制预算/budgetary adj.预算的(例：budgetary control 预算控制/budgetary cost 预算成本)
+	
+foremost ['fɔːməʊst] adj.最重要的；最先的 adv.首先
+	例：Foremost, the government should stabilise the market and boost the consumer's confidence.
+	首先，政府要稳定市场，增强消费者的信心。
+	搭：first and foremost 首要地/foremost task 最重要的任务
+	
+debt-equity ratio 债务权益比
+	例：The debt-equity ratio is an important indicator that could suggest a company's long-term debt-paying ability.
+	债务权益比是能够表明公司长期偿债能力的一个重要指标。
+	
+manual ['mænjuəl] adj.手工的，体力的 n.手册；指南
+	商：manual labourer/job 体力劳动者/工作/training manual 培训手册
+	派：manually adv.用手地，手工地
+	
+	
