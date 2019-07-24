@@ -1850,3 +1850,62 @@ manual ['mænjuəl] adj.手工的，体力的 n.手册；指南
 	派：manually adv.用手地，手工地
 	
 	
+	
+Day32
+
+fluctuate ['flʌktʃueɪt] vi.波动，涨落，起伏
+	例：The domestic oil prices will fluctuate with the international oil price.
+	国内石油价格将随国际石油价格波动
+	搭：fluctuate between 在...之间波动
+	派：fluctuation n.波动(例：wide fluctuations in product prices 产品价格的大幅波动)
+	
+notably ['nəʊtəbli] adv.显著地；尤其
+	例：The economic reform showed its positive effect, notably in improving the residents' livelihood
+	经济改革展现出它的积极效果，尤其是在改善民生方面
+	派：notable adj.显著的 
+	
+sovereignty ['sɒvrənti] n.主权；主权国家；统治权
+	例：We maintain that the independence, sovereignty, unity and territorial integrity of each nation should be respected.
+	我们主张尊重每一个国家的独立、主权、统一和领土完整。
+	
+quality ['kwɒləti] n.质量；素质；品格，品质；性质
+	例：The restaurant won wide popularity for its quality service and competitive price.
+	这家餐馆因服务优良、价格低廉而受到广泛的欢迎。
+	商：quality assurance 质量保证/goods of high quality 优质产品
+	搭：be of high quality 高质量的/quality time 优质时间(指全心照顾子女等的时间)/personal quality 个人品质
+	派：qualitative adj.质量的，质的；定性的(例：qualitative analysis 定性分析)
+	
+pact [pækt] n.条约，协定，公约
+	例：The two countries have made a pact with each other to reduce the carbon dioxide emissions by 5% in the next five years.
+	两国达成了协议，在未来五年里将二氧化碳的排放量减少5%。
+	商：free-trade pact 自由贸易协定/investment pact 投资协定
+	搭：non-aggression pact 互不侵犯条约
+	
+return [rɪ'tɜːn] n.[常 pl.]收益，投资回报；返回；归还；报告书，统计表 v.回报；返回 adj.回程的
+	商：return on investment 投资回报/economic returns 经济效益/rate of return 回报率/annual returns 年度收益；年度报告/tax return 纳税申报单 
+	搭：return ticket 往返票，回程票/in return for 作为对...的回报
+	派：returner n.(离职生养小孩一段时间后)复职的女性/returnable adj.可归还的；可回收的
+	听说小站：
+	M: How about the quality of the products in your store?
+	你们店的产品质量怎么样？
+	W: It is not necessary for you to worry about that. The customers can unconditionally return any faulty goods within seven days.
+	您不必为此担心。顾客可以在七天内无条件退回任何有瑕疵的商品。
+	
+synergy ['sɪnədʒi] n.协同作用，协同增效作用(协作所产生的效果优于单独行动的效果)
+	例：The research shows that companies generally have a incentive to merger when the synergy effect of products begins to appear.
+	研究表明，当产品协同效应开始显现时，企业普遍存在兼并危机
+	派：synergistic adj.协同的，协作的
+	
+accommodator [ə'kɒmədeɪtə] n.调解人；适应者；提供方便者
+	例：Benefits are the best accommodator between different companies.
+	利润是不同公司之间的最佳协调者。
+	
+breach [bri:tʃ] vt.违反，打破 n.违反，违背
+	例：The company breached the contract unilaterally, which caused great injuries to its reputation.
+	这家公司单方面违反合同，这对其声誉造成了极大的伤害。
+	商：breach of contract/copyright 违反合同/侵犯著作权
+	
+soft [sɒft] adj.软的，柔软的；柔和的，温和的
+	商：soft currency 软通货；软性货币/soft terms 优惠条件/soft market 疲软市场/soft landing 软着陆；软性经济滑坡
+	
+	
