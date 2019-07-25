@@ -1909,3 +1909,69 @@ soft [sɒft] adj.软的，柔软的；柔和的，温和的
 	商：soft currency 软通货；软性货币/soft terms 优惠条件/soft market 疲软市场/soft landing 软着陆；软性经济滑坡
 	
 	
+	
+Day33
+
+participate [pɑː'tɪsɪpeɪt] v.参与，参加；分享
+	例：In order to associate with social celebrities, he frequently participates in various business activities.
+	为了结交社会名流，他频繁出席各种商务活动。
+	搭：participate in 参与，参加 
+	派：participant n.参加者，参与者/participation n.参加
+	
+drain [dreɪn] vi.排水；流干 vt.喝光；耗尽；使流出 n.排水；排水管；消耗
+	例：This measure will drain 1 billion yuan from the national treasury in five years.
+	这项措施将在五年内花掉国库10亿元人民币
+	搭：drain off 渐渐枯竭；排出/cash drain 现金流失
+	派：drained adj.筋疲力尽的；无精打采的/drainage n. 排水；排水系统
+	
+stick [stɪk] vt.刺，戳；伸出；粘贴 vi.坚持；遵守；伸出；粘住 n.棍；手杖；呆头呆脑的人
+	例：This country usually issues various trade statements to bind others, but it seldom sticks to them.
+	该国经常发表各种贸易声明来约束他国，但是它自己却很少遵守这些声明中的规定
+	搭：carrot and stick 软硬兼施/stick in the mind 经久不忘；铭记在心/stick out 醒目；引人注目/stick up for 支持；捍卫
+	派：sticker n.坚持不懈的人；小贴纸/sticky adj.黏的；闷热的；及不愉快的
+	
+spread [spred] vt.展开；散布，使传播；涂，敷 vi.伸展；蔓延，传播 n.传播，蔓延；范围；差价
+	例：Not having enough cash, he has to pay monthly and spread the cost of bills.
+	由于没有足够的现金，他不得不分月支付账单费用。
+	商：credit spread 信用价差
+	搭：spread across 传遍；席卷/spread out 展开，铺开；伸展
+	派：spreader n.传播者；推广者(例：spreader of gossip 传播流言蜚语的人)
+	
+abnormal [æb'nɔːml] adj.反常的，异常的；变态的；不规则的
+	例：The situation of world economic depression is quite abnormal 
+	世界经济的衰退形势很反常
+	搭：abnormal situation 异常状态
+	
+embarrass [ɪm'bærəs] vt.使局促不安；使困窘；阻碍 vi.感到窘迫
+	例：It embarrassed him that he had not taken enough money with him when giving our customer a treat.
+	令他感到尴尬的是，他在请客户吃饭时没带够钱。
+	派：embarrassed adj.窘迫的；尴尬的；陷入困境的(例：financially embarrassed 拮据的)/embarrassing adj.令人尴尬的/embarrassment n.尴尬 
+	
+collect [kə'lekt] vt.收集，采集；收(税等)；领取(信件等)；推断出 vi.积聚 adj./adv.(打电话)由对方付费(的)
+	例：We have to widely collect relevant information to make an accurate judgement for a present financial situations.
+	我们必须广泛搜集相关信息，对当前的财政形势作出准确的判断。
+	商：collect accounts 收账/collect on delivery(COD) 货到付款/collecting account 收款账户
+	搭：collect all 接听者付费电话
+	派：collection n.收款，征收/collective adj.全体的，共同的(例：collective bargaining 劳资双方代表进行地谈判)/collectively adv.全体地，共同地/collector n.收款人；收藏家(例：tax collector 收税员)
+	
+address [ə'dres] vt.发表演说；解决(问题)；称呼；写信给，寄至；向...致辞 n.地址；致辞；演讲
+	例：The gift will be sent to your address within two working days.
+	这个礼物将在两个工作日之内寄给您
+	商：address economic disputes 解决经济纠纷/address the problems in the development 解决发展中的问题
+	搭：deliver an address 发表演讲
+	派：addressee n.收件人，收信人/addressable adj.可以解决的
+	
+assess [ə'ses] vt.对...进行估价，评估；征税；评价，评论
+	商：assess cost/damage/value 评估成本/损坏程度/价值
+	搭：assess one's ability 评估某人的能力/assess one's performance 评价某人的表现
+	派：assessor n.评估员，评估人/assessable adj.可估价的；可征收的
+	听说小站：
+	M: What a terrible storm!
+	多么可怕的暴风雨啊！
+	W: Yes, it is hard to assess the property losses caused by it.
+	是呀，很难估计这场风暴会造成多少财产损失
+	
+strongroom ['strɒŋru:m] n.保险库；监护病房
+	例：The products were so valuable that had to be put in the strongroom.
+	这批货物很珍贵，必须把它们放到保险库里。
+	
