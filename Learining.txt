@@ -2180,3 +2180,72 @@ in-flight [,ɪn'flaɪt] adj.在飞行中供应(或发生)的
 	例：The European Union began to allow some airlines to provide in-flight mobile-phone  and Wi-Fi service for the passengers.
 	欧盟开始允许一些航空公司为乘客提供空中手机服务和无线网络服务。
 	
+	
+
+Day37
+
+fail [feɪl] vi.失败；不及格；破产；缺乏；衰退 vt.不及格；使失望；忘记；舍弃
+	例：The government's monetary and fiscal policy failed to resist this economic crisis.
+	政府的货币政策和财政政策没能抵挡住这次经济危机的冲击
+	搭：fail to do sth. 未做到某事/without fail 务必/fail the test 测试不及格
+	派：failed adj. 失败的/failure n.失败；故障；失败者；破产(例：failure rate 故障率；失效率)
+	
+report [rɪ'pɔːt] n.报告；报道；成绩单 v.报告；公告；宣告；负责；告发，举报
+	例：Each department manager reported their achievements of this year at the annual meeting.
+	在年会上每个部门经理都汇报了他们本年度取得的成果。
+	商：business report 商业报道/process report 进度报告/quarterly report 季度报告
+	搭：weather report 天气预报/draft/submit a report 起草/提交报告/report to sb. 向...汇报
+	派：reportage n.新闻报道/reporting n.新闻报道/reportedly adv.据说；据报道
+	
+in the black (银行存款)有盈余；盈利
+	例：Thanks to all the staff's hard work, our company has been in the black for eight years.
+	凭借全体员工的共同努力，我们公司已经连续八年盈利。
+	
+notice ['nəʊtɪs] n.通知，布告；预先通知；离职通知 vt.注意到；意识到
+	商：hand in the notice 呈交离职通知
+	搭：take no notice of 对...视而不见/at short notice 一经通知立即/wait for further notice 等候进一步通知
+	派：noticeable adj.显著的，显而易见的
+	听说小站：
+	M: Why does that company almost not suffer from the economic crisis?
+	为什么那家公司几乎没有收到经济危机的影响？
+	W: It is said that it noticed some signs of the crisis and made preparation in advance.
+	据说它事先已经注意到了危机的一些征兆，先提前做好了准备
+	
+section ['sekʃn] n.部分；章节；部门，科；截面，剖面 vt.将某物分成部分；切开，切除
+	例：Each section in the company should cooperate with each other to achieve our annual business objective.
+	公司各个部门应该相互配合来实现我们的年度业务目标
+	商：finance section 财务处/section manager 部门经理 
+	搭：vertical section 垂直切面，纵断面/section...off 将...隔出；划出
+	派：sectional adj.某群体的，某阶层的；组装的，组合的
+	
+stipulate ['stɪpjuleɪt] vt.规定；约定
+	例：The contract explicitly stipulates the delivery date, delivery address and liability for breach of the contract.
+	合同中明确规定了交货日期、交货地点和违约责任。
+	派：stipulation n.规定；条款 
+	
+schedule ['ʃedju:l] n.进度表；日程表；明细表 vt.安排时间，拟定日程
+	商：tight schedule 日程紧/scheduled flight 定期航班/tax schedule 税率表
+	搭：on/ahead of/behind schedule 和日程一致/比日程提前/落后于日程
+	派：scheduler n. 安排日程(或时间、进度)的人
+	听说小站：
+	M: The project was scheduled to be finished last year.
+	这个项目原本计划去年竣工
+	W: But it has been stalled for the time being for lack of funds.
+	但是由于缺乏资金，它暂时被搁置了
+	
+one-stop shopping 一站式购物，一站式采购；一站式服务
+	例：Most supermarkets provide a one-stop shopping service to save the customers' time.
+	大多数超市都提供一站式购物服务来节省顾客的时间
+	
+absorb [əb'sɔːb] vt.承担(费用等)；买进；吸收；吸引...的注意
+	例：Our customers are reluctant to absorb those costs.
+	我们的客户不愿承担那些成本。
+	商：absorb large losses 承担大量损失/absorb research and development talents 引进研发人才
+	搭：be absorbed in/into (人)专注于；(物)被...所吞并
+	
+recession [rɪ'seʃn] n.衰退，不景气
+	例：The market is sluggish because of the economic recession.
+	由于经济衰退，市场不景气
+	商：be in a recession 处于衰退之中/property/trade recession 房地产/贸易衰退
+	派：recessionary adj.(经济)衰退的
+	
