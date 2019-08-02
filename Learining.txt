@@ -2249,3 +2249,104 @@ recession [rɪ'seʃn] n.衰退，不景气
 	商：be in a recession 处于衰退之中/property/trade recession 房地产/贸易衰退
 	派：recessionary adj.(经济)衰退的
 	
+	
+	
+Day38
+
+organisation [,ɔːgənaɪ'zeɪʃn] n.组织，机构
+	商：financial organisation 金融机构/World Trade Organisation 世界贸易组织/organisation chart 组织结构图
+	派：organisational adj.组织(上)的；编制的(例：organisational skill 组织技巧/organisational structure 组织结构)
+	
+piece [pi:s] n.块；件；篇 vt.修补；接合；凑合
+	商：piece rate 计件工资率/piece work 计件工作
+	搭：fall to pieces 瓦解，破碎/a piece of advice 一条建议/a piece of cake 小菜一碟/piece together 拼凑
+	
+outsell [,aʊt'sel] vt.卖的比...好
+	例：Our own-lable product outsells many similar products in the overseas market.
+	在海外市场，我们自由品牌的产品比许多同类产品卖的好
+	
+unilateral [,ju:nɪ'lætrəl] adj.单方面的，单边的
+	例：The company was taken to court for taking a unilateral decision to cancel the sales contract.
+	这家公司因单方面撤销销售合同而被告上法庭
+	派：unilaterally adv.单方面地，单边地；片面地/unilateralism n.单边主义/unilateralist n.单边主义者
+	
+audit ['ɔːdɪt] n./v. 查账，审计
+	例：The problem was found when the bank carried out an internal audit.
+	这个问题是银行在进行内部审计时发现的。
+	商：annual audit 年度审计/tax audit 税务审计/external audit 外聘审计(由外来机构或人士前来主持的审计)/marketing audit 营销审计
+	搭：carry out an audit 进行审计
+	派：auditor n.审计员；稽核员；旁听生；一名听众/audition n./v.试唱，试演
+	
+accidental losses 意外损失
+	例：This contract is unacceptable because there is no item regarding accidental losses.
+	这个合同是不能被接受的，因为其中没有规定关于意外损失的条款
+	
+crucial ['kru:ʃl] adj.重要的；决定性的；定局的；决断的
+	例：The regain of consumer confidence plays a crucial role in economic recovery.
+	消费者重拾信心对经济复苏起着至关重要的作用。
+	搭：play a crucial role 起重要作用/at the crucial moment 在关键时刻/crucial factor/issue/decision 关键性因素/问题/决定 
+	派：crucially adv.至关重要地，关键地
+	
+rebate ['ri:beɪt] n. 折扣；回扣；退还款 v.打折扣
+	例：The consumer who spends more than the prescribed amount will be offered a cash rebate.
+	消费者超过规定额度的消费者将享受现金折扣
+	商：income tax rebate 所得税退税/export rebate policy 出口退税政策
+	
+setback ['setbæk] n.挫折，失败；倒退
+	例：Subject to the influence of the global economic crisis, the ship building industry is suffering a setback 
+	受全球经济危机的影响，造船业目前遭受挫折。
+	商：business setback 经济衰退
+	
+defend [dɪ'fend] vt.保卫；防护；辩护
+	例：A famous lawyer was willing to defend him against the allegation of disclosing business secrets to another company.
+	他被指控向其他公司泄露商业机密，一位知名律师愿意为他辩护
+	搭：defend...from/against 防御；保卫/defend championship/title 卫冕
+	派：defence n.防卫；防御措施/defensible adj.可防御的；可辩护的/defensive adj.防御的/defendant n.被告
+	
+	
+	
+Day39
+
+fuss [fʌs] vi.小题大做；忙乱；焦躁 vt.使烦恼 n.大惊小怪；大惊小怪的人；忙乱
+	例：Some companied only fuss over the budget rather than product innovation.
+	有些公司只关心预算，而不关心产品创新
+	搭：make a fuss about sth. 对...大惊小怪/fuss about sth. (为小事)烦恼，忧虑/fuss over sb. 对...关爱备至；过分关心/fuss with/over sth. 瞎忙一气；过分关心(细枝末节)
+	派：fussy adj.大惊小怪的；挑剔的；局促不安的(例：a fussy manner 局促不安的举止)
+	
+memo ['meməʊ] (=memorandum) n.备忘录；便函；意向书
+	例：The two parties signed the memo after the conference.
+	双方在会后签署了意向书。
+	搭：circulate/write a memo 传阅/写备忘录
+	
+extra ['ekstrə] adv.特别地，非常；另外 adj.额外的，另外收费的；特大的 n.额外的事物
+	商：pay extra 额外付费/extra charge 额外收费/extras included 包括的额外费用
+	
+possible ['pɒsəbl] adj.可能的；合理的，合适的 n.可能性；合适的人
+	例：It is possible for us to recover the costs this year if we can maintain the present sales volume for each month.
+	如果每个月都能维持现在的销量，我们今年就有可能收回成本
+	搭：as...as possible 尽可能/possible explanation 合理的解释
+	派：impossible adj.不可能的；不合适的/possibly adv.可能地；合理地/possibility n.可能性；可能的事
+	
+tramp [træmp] n.流浪者；长途跋涉；不定期货船 v.脚步沉重地走；步行(经过)；践踏
+	商：tramp shipping market 不定期货船运输市场
+	
+stainless ['steɪnləs] adj.纯洁的；不生锈的
+	搭：stainless steel 不锈钢
+	
+overdraft ['əʊvədrɑːft] n.透支；透支款项
+	商：run up/pay off an overdraft 严重透支/付清透支/overdraft facility 透支额度
+	
+fund [fʌnd] n.资金；基金；[pl.]钱，现款 vt.资助，投资
+	商：trust fund 信托基金/hedge fund 有限合伙投资基金/fund management 基金管理/pension fund 养老基金/International Monetary fund 国际货币基金组织/short of funds 资金短缺
+	派：funder n.提供资金者
+	
+precedent ['presɪdənt] n.先例，前例；惯例
+	例：The global economic depression of such a large scale was without precedent in history.
+	这么大规模的全球经济危机是史无前例的。
+	搭：break with precedent 打破常规/set a precedent for 为...提供范例
+	派：precedence n.优先，优先权
+	
+overtime ['əʊvətaɪm] adv.超时地，加班地 adj.超时的，加班的
+	例：Several workers really want to work overtime to earn overtime pay.
+	有几个工人确实是想通过加班来赚取加班费
+	商：overtime earnings 加班收入/overtime hours 加班时数
