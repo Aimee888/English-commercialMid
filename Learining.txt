@@ -2350,3 +2350,62 @@ overtime ['əʊvətaɪm] adv.超时地，加班地 adj.超时的，加班的
 	例：Several workers really want to work overtime to earn overtime pay.
 	有几个工人确实是想通过加班来赚取加班费
 	商：overtime earnings 加班收入/overtime hours 加班时数
+	
+	
+Day40
+
+catalyst ['kætəlɪst] n.催化剂，刺激因素
+	例：The cheap labour cost in China is a catalyst to encourage foreign direct investment.
+	中国廉价的劳动力刺激了外国的直接投资。
+	搭：catalyst for sth.引发...的因素
+	
+impractical [ɪm'præktɪkl] adj.不切实际的，不现实的；不能实行的
+	例：Though your proposal is impractical, it gives us some enlightenment to solve the problem.
+	尽管你的提议不切实际，但是它还是为我们解决这个问题带来了一些启发。
+	派：impractically n.不切实际
+	
+parcel [pɑːsl] n.包裹，小包 vt.打包；捆扎
+	例：Every parcel must be carefully checked before the passengers board the plane.
+	在乘客登机前，每个包裹都要接收仔细的检查。
+	搭：parcel bomb 邮包炸弹/parcel out 分配，把...分开
+	
+fill [fɪl] vt.装满，布满；以...充注，填塞；满足；充任，担任(职务等) vi.(使)充满
+	例：Our latest product not only fills the gap of domestic market, but also breaks the monopoly of foreign companies on the international market.
+	我们的最新产品不仅填补了国内市场的空白，而且打破了国外公司在国际市场上的垄断。
+	搭：fill sth. with sth. 用...填充/fill in(for sb.) 暂时代替；临时补缺
+	派：filler n.填充物；填补空白之物
+	
+range [reɪndʒ] n.(产品)系列；幅度，范围 vi.(在某范围内)变动，变化；论及，涉及；漫游，徘徊 vt.使排列成行；把...分类；
+	例：This supermarket offers merchandise ranging from the daily products to some special equipment.
+	这家超市供应何种商品，从日用品到一些特殊设备都有。
+	商：product range 产品范围/price range 价格范围
+	搭：range over 涉及；包括/a range of 一系列；一连串/in the range of 在...范围内
+	
+recourse [rɪ'kɔːs] n.求援；依赖；追索权
+	例：Despite the obvious deception, the investor had no legal recourse.
+	尽管明显受到欺诈，但投资者却没有法律追索权。
+	搭：without recourse 没有追索权/have recourse to 诉诸；求助于
+	
+drive [draɪv] n.驾驶；动力，积极性；(募捐等)运动 vt.开车；驱动；推动；促成(交易等)
+	例：The government launched a drive to reduce environmental polution.
+	政府发起了减少环境污染的运动。
+	商：economic drive 经济运动；经济激励/a drive for greater efficiency 为提高效率而进行的活动
+	搭：drive sth. up/down 抬高/压低/drive sth. home to sb. 使某人充分理解某事/drive sb. to do sth.强迫某人做某事
+	派：driver n.司机/driving n.驾驶 adj.强有力的；充满活力的(例：driving force 推动力)
+	
+incident ['ɪnsɪdənt] n.事件，事变；摩擦，冲突
+	例：International trade is sensitive to political issues even a title international incident between different countries.
+	国际贸易很容易受政治问题的影响，即使那只是一小小的涉外事件
+	搭：shooting incident 枪击事件/diplomatic incident 外交事件
+	派：incidental adj.附带的；偶然的
+	
+evidence ['evɪdəns] n.证据，证明；迹象；明显 vt.证明；作为...的证据
+	例：There is not a shred of evidence that the inflation will end in a short period of time.
+	没有丝毫迹象表明通货膨胀将在短期内结束
+	搭：be in evidence 显而易见/as evidenced by 被...证明 
+	派：evident adj.明白的；显而易见的
+	
+devalue [,di:'vælju:] v.(使)贬值
+	例：Our quality of life does not actually improve as our salary is devalued by inflation.
+	我们的生活质量实际上并没有提高，因为通货膨胀使我们的工资贬值了。
+	派：devalueation n.(货币等)贬值(例：currency devalueation 货币贬值)
