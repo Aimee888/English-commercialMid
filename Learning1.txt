@@ -1,0 +1,108 @@
+Day41
+
+occur [ə'kɜː(r)] vi.发生；存在；出现；被想到
+	例：It never occurred to me that our company will be listed on the NASDAQ one day.
+	我从来没有想过，有一天我们的公司会在纳斯达克上市。
+	派：occurrence n.发生 
+	
+knock-down ['nɒkdaʊn] adj.(价格)低廉的；强有力的 n.击倒
+	例：The tycoons try to buy key state assets at knock-down prices through bribery.
+	这些大亨试图通过贿赂以及其低廉的价格购买核心国有资产。
+	
+outlet ['aʊtlet] n.出口，出路；(感情、精力等的)发泄途径(或方法)；渠道；销路；品牌折扣店
+	例：The financial crisis is bad for others, but it is the best outlet for his talents.
+	金融危机对别人来说很糟糕，但对他来说却是施展才能的最佳机会。
+	商：open up an outlet 打开销路/retail outlet 零售店
+	
+decrease ['di:kri:s] n.减少；减少量
+	例：There was a slight decrease in exports during the last two months.
+	在过去的两个月里，出口略有下滑
+	搭：decrease by 减少了(。。。数量或百分比)/decrease in 减少，下降
+	
+pledge [pledʒ] v.保证，许诺 n.保证，誓言；抵押；抵押品
+	例：The government pledges that it will continue to improve the residents' income level.
+	政府保证将继续提高居民的收入水平。
+	商：unredeemed pledge 未赎回的抵押品
+	搭：pledge of support 许诺帮助/give a pledge that 保证/honour one's pledge 实现某人的承诺/pledge allegiance to 保证对...的忠诚
+	
+purpose ['pɜːpəs] n.目的，意图；议题；意志，决心
+	例：The board meeting was called for the purpose of discussing the reform of the company's organisational structure.
+	召开董事会的目的是讨论公司的组织结构改革。
+	搭：on purpose 故意地，有意地/to no purpose 作用不大地，徒劳地
+	派：purposeful adj.有目的的；果断的/purposeless adj.无目的的；无意义的/purposefulness n.目的性
+	
+discipline ['dɪsəplɪn] n.纪律；学科；训练 vt.训练；使有纪律；处罚
+	例：The new employee was dismissed because he did not keep good discipline during office time.
+	这位新员工因在上班时间不守纪律而被开除。
+	搭：discipline sb. for sth.因某事处罚某人/discipline oneself 严格要求自己
+	派：disciplined adj.纪律严明的/disciplinary adj.规律的；训练的；学科的
+	
+straight [streɪt] adj.直的；连续的；笔直的；整齐的；坦诚的 adv.直接地；不断地；坦率地；立即 n.直；直线
+	例：We'd better be straight with each other to solve the problem together.
+	我们最好开诚布公，共同来解决问题。
+	商：straight line depreciation 直线折旧法
+	搭：get sth.straight 弄清楚某事/straight away 立即；马上/play it straight 诚实无欺
+	派：straighten v.整顿；(使)变直；(使)好转(例：straighten out finances 清理财务)
+	
+store [stɔː(r)] n.商店；储备，贮藏；仓库 vt.贮藏，储存
+	例：Every country should store sufficient grain and currency in case of need.
+	每个国家都应储备足够的粮食和货币以备不时之需。
+	商：store audit 存货审计/department store 百货商店/chain store 连锁店
+	搭：store sth. up 储存；积聚
+
+cater for 供应
+	例：It is hard for the retailers to cater for different tasts around the local market.
+	零售商很难满足当地市场的不同需求
+	
+
+
+Day42
+
+volume ['vɒlju:m] n.贸易额；体积，容积；大量，许多；音量；书；册，本，卷
+	商：business volume 营业额/sales volume 销售额/volume business 大批量交易/volume discount 总额折扣
+	派：voluminous adj.庞大地；大部头的
+	
+onset ['ɒnset] n.(爆发性的)开始；着手
+	例：With the onset of war, all the international trade will be influenced.
+	战争一爆发，所有的国际贸易都将受到影响。
+	
+governor ['gʌvənə(r)] n.管理者；理事，董事；总督；省长；镇长
+	商：board of governors 董事会；理事会/Governor General总督
+	
+inquiry [ɪn'kwaɪəri] n.调查；询问；询价
+	搭：telephone inquiry 电话查询/hold an inquiry into the affair 对该事件进行调查
+	派：inquirer n.询问者/inquiring adj.询问的，探听的
+	写作小站：
+	Once we get your specific inquiry, we will email our quotation to you as soon as possible.
+	一旦收到贵方的具体询价，我方将尽快把报价用邮件发给贵方。
+	
+gateway ['geɪtweɪ] n.出入口；网络连接装置；网关；途径，手段
+	例：This precious experience offered me a gateway to the well paid foreign enterprises.
+	这份宝贵的经历为我打开了通向待遇丰厚的外资企业的大门。
+	商：IP address of the gateway 网关的IP地址
+	
+flotation [fləʊ'teɪʃn] n.(公司等的)成立，创办，筹资，开办；(债券、股票的)发行
+	例：The company has developed rapidly since its flotation in 2000.
+	自2000年创办以来，这家公司发展得非常迅速。
+	商：flotation price/shares 上市价格/股份/prepare for (a) flotation 准备上市
+	
+mortgage ['mɔːgɪdʒ] n.抵押(贷款) vt.抵押；抵押
+	例：He went bankrupt and had to mortgage the luxurious car to pay the bills.
+	他破产了，不得不将豪车抵押来支付这些款项
+	商：morgage debenture 抵押债券/mortgage loan 按揭贷款
+	派：mortgagor n.抵押人/mortgagee n.承押人
+	
+offend [ə'fend] vt.冒犯，使不愉快 vi.违反；进攻；引起不悦
+	例：She apologised for her behaviour and said that she didn't mean to affend them. 
+	她为她的行为表示道歉，并说她无意冒犯他们。
+	搭：offend against the law 触犯法律
+	派：offender n.违法者；妨害...的人(或物)/offending adj.令人不愉快的；烦人的；违法的
+	
+currency ['kʌrənsi] n.通货，货币；通行，流行
+	商：hard currency 硬通货/foreign currency reserve 外汇储备/currency and futures contract 货币和期货合同
+	
+need [ni:d] n.需要；必要之物 v.需要
+	例：The company is increaseing its production to meet the needs of customers.
+	该公司正在增加产量，以便满足客户的需求
+	搭：need to do sth.需要做某事/need doing (某事)需要被做/be in need of 需要/if need be 如果有必要的话
+	派：needy n.贫困的/needful adj.必要的/needless adj.不必要的(例：needless to say 不用说)
