@@ -106,3 +106,94 @@ need [ni:d] n.需要；必要之物 v.需要
 	该公司正在增加产量，以便满足客户的需求
 	搭：need to do sth.需要做某事/need doing (某事)需要被做/be in need of 需要/if need be 如果有必要的话
 	派：needy n.贫困的/needful adj.必要的/needless adj.不必要的(例：needless to say 不用说)
+
+
+
+
+Day43
+
+insistence [ɪn'sɪstəns] n.坚持；强调；坚决主张
+	例：China has made a great contribution to the world economy for its insistence on not devaluating its currency during the global financial crisis.
+	中国在全球金融危机的情况下坚持货币不贬值，为世界经济作出了巨大的贡献。
+	搭：at one's insistence 在某人的坚持下
+	派：insistent adj.坚持的；持续的
+	
+forward ['fɔːwəd] vt.促进；发送，转寄 adj.向前的；远期的，期货的 adv.向前，提前地 n.前锋
+	例：Such a investment structure is helpful to push forward the long-term development of company business.
+	这种投资结构有助于推动公司业务的长期发展
+	商：forward foreign exchange 远期外汇交易/forward integration 生产、批发、零售一体化/forwarding address 转寄地址/forwarding agent 运输商；转运公司
+	搭：look forward to 期待/put forward 提出/forward sth. to sb.将某物转交给某人
+	派：forwardness n.热心；鲁莽
+	
+bound [baʊnd] adj.密切关联的；有义务的，受约束的 n.跳跃，弹回 vi.跳跃；反弹 vt.使弹回；束缚
+	例：The economic development is still bound to the increase of population and environmental protection.
+	经济发展仍然与人口增长和环境保护紧密相连。
+	搭：be bound up with sth. 和某事联系密切/be bound together by 因...而紧密相连/be bound to do sth.一定会做某事/in leaps and bounds 非常迅速地
+	派：boundary n.界限/boundless adj.无限的；无止境的/bounden adj.不可推卸的；有责任的(例：bounden duty 不可推卸的责任)
+	
+caterer ['keɪtərə(r)] n.(为大型活动提供服务的)饮食供应商
+	例：The former caterer is now the president of a chained catering enterprise.
+	昔日的饮食供应商如今成了一家连锁餐饮企业的总裁。
+	
+assistance [ə'sɪstəns] n.援助，帮助；辅助设备
+	商：economic assistance 经济援助/legal assistance 法律援助
+	搭：with the assistance of 在...的帮助下/be of assistance to 对...有帮助
+	
+clientele [,kli:ən'tel] n.[总统]委托人；主顾，客户
+	例：The company has a mixed clientele because their products are suitable for clients from different walks of life.
+	这个公司是什么样的客户都有，因为他们的产品适合各行各业的客户。
+	
+	
+	
+Day43
+
+if you find a path with no obstacles, it probably doesn't lead any where.
+太容易的路，可能根本无法带你去任何地方。
+
+workload ['wɜːkləʊd] n.工作量
+	例：We are applying to increase the workforce to cope with the increased workload.
+	我们申请增加劳动力来应对增加的工作量。
+	
+breakthrough ['breɪkθru:] n.突破；突破性进展；重大发现
+	例：If we want to make significant technology breakthroughs, we will have to attract more talent to our company.
+	如果我们箱子啊技术上取得重大突破，就必须吸引更多的人才来我们公司。
+	搭：achieve a breakthrough in 在...上取得突破
+	
+lessee [le'si:] n.承租人
+	例：The lessee should not violate the contract and change the original layout of the house.
+	承租人不能违反合同，改变房屋原有布局。
+	
+listed ['lɪstɪd] adj.列出的；上市的
+	商：listed company 上市公司/listed securities 上市证券/to be listed 上市
+	搭：listed building 正式列入文物保护范围的建筑物
+	
+plough [plaʊ] vt.犁地，耕地；在投资 n.犁 
+	例：In order to expand production, the factory ploughed all the benefits back into the project.
+	为了扩大生产，这家工厂将所有收益又投入到了这个项目中。
+	搭：plough sth.back into(把赚来的钱)在投资/plough sth. into (把大笔资金)投入/plough on 继续做(困难或枯燥的事情)
+	
+relocate [,ri:ləʊ'keɪt] v.迁移；重新安置
+	例：For the requirement of further development, the company relocated its headquarters from the suburbs to the central business district.
+	出于进一步发展的需要，这家公司将其总部从郊区迁到中心商业区
+	派：relocation n.搬迁(例：relocation expenses 搬迁费用)
+	
+goal [gəʊl] n.目的，目标
+	商：sales goal 销售目标/annual goal 年度目标/expected goal 预期目标
+	搭：ultimate goal 终极目标/achieve/attain a goal 实现目标
+	
+distract [dɪ'strækt] vt.转移；使分心
+	例：The overseas disputes distract domestic attention from the complaints about the government.
+	海外争端分散了国内人民对政府不满的注意力。
+	搭：distract sb. from sth. 使某人不能专心做某事
+	派：distracted adj.注意力分散的；心烦意乱的/distracting adj.令人分心的(例：a distracting idea 一个令人分心的想法)/distraction n.使人分心的事；消遣
+	
+chokepoint ['tʃəʊk,pɒɪnt] n.阻塞点
+	例：A shortage of funds has become a serious chokepoint impeding the development of many Chinese technology companies.
+	资金缺乏已经严重地阻碍了中国许多技术公司的发展。
+	
+restructure [,ri:'strʌktʃə(r)] vt.重建；调整；重组
+	例：The economic recession forced the company to restructure to cut costs.
+	经济衰退迫使这家公司进行重组来消减成本。
+	商：restructure the economy 调整经济结构
+	派：restructuring n.重建；调整；重组(例：restructuring costs 重组成本)
+	
