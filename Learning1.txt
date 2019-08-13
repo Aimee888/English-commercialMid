@@ -358,3 +358,57 @@ style [staɪl] n.风格，文体；式样；流行式样，时尚 vt.(根据新�
 	商：leadership style 领导风格/product style 产品风格/classical style 经典款式
 	搭：style...on 模仿...的风格/in great/great style 气派；气势非凡
 	派：stylish adj.时髦的；新潮的；高雅的/stylistic adj.文体的
+	
+	
+Day47
+
+keep [ki:p] vt.保持；经营；遵守 vi.保持；(商店等)开着；逗留 n.保持；生计；生活费
+	例：Despite the financial crisis, China still keeps a robust development momentum in the national economy.
+	尽管受到金融危机的影响，中国仍然保持着国民经济发展的强势劲头。
+	商：keep a restaurant 开了一家餐馆/earn one's keep 赚取生活费
+	搭：keep abreast of 与...并驾齐驱；了解...的最新情况/keep up with 赶得上；和...保持联系/keep promise 信守诺言
+	派：keeper n.看守人；保管人
+	
+focus ['fəʊkəs] n.焦点；中心；清晰；焦距 v.集中；聚焦
+	例：The international community is now focusing on the issue of greenhouse gases emissions.
+	国际社会正在关注温室气体的排放问题。
+	搭：focus group 焦点小组；(为民意测验而选定的)典型群众/focus on 集中于
+	派：focused adj.注意力集中的
+	
+round [raʊnd] adj.用整数表示的；圆形的；来回的 adv.循环地；在周围，到处 prep.环绕；绕过 vt.绕过；使...成圆形
+	例：The production manager and workers had to work round the clock to meet the deadline of the delivery.
+	生产经理和工人不得不夜以继日地工作，以便赶上交货的最后期限
+	搭：in round figures 以整数计算(或表示)/round about 在附近；大约/round...off 使...圆满结束
+	
+clutter ['klʌtə(r)] n.杂乱，混乱 vt.使凌乱；胡乱地填满
+	例：There are fewer ads on each page of the newspaper, which reduces visual clutter for the viewers.
+	该报纸上每页上的广告变少了，从而减少了读者的视觉混乱。
+	派：cluttered adj.杂乱的；凌乱的(例：a cluttered mind 杂乱无序的思路)
+	
+undertake [,ʌndə'teɪk] vt.承担；着手做；同意，保证
+	例：The property developer undertakes that they will greatly reduce the housing price to address the needs of common people.
+	这个房地产开发商承诺将大幅度降低房价以满足普通百姓的需求。
+	派：undertaking n.承诺，事业(例：commercial/financial undertaking 商业/金融事业)/undertaker n.承办人；殡仪业者
+	
+regime [reɪ'ʒi:m] n.政体，社会制度；管理体制
+	商：tax regime 税收管理体制/drastic regime of economic reform 雷厉风行的经济改革
+	搭：totalitarian/military regime 集权政体/军事政权
+	
+yield [ji:ld] n.产量；收益 vi.屈服；让步 vt.生产，产出；沉溺于
+	商：gross yield 毛收益/dividend yield 股息生息率/yield curve 收益率曲线/yield gap 收益差额
+	搭：yield to 屈从于；让位于
+	派：yielding adj.带来收益的；柔软的；顺从的(例：high yielding crops 高作产物)
+	写作小站：
+	We are happy that our investment in the emerging market yielded high profits.
+	我们很高兴在新兴市场上的投资产出了高额的利润。
+	
+disposable [dɪ'spəʊzəbl] adj.一次性的；可自由支配的
+	商：disposable income 可支配收入/disposable assets/capital/resources 可支配财产/资本/资源
+	搭：disposable camera 一次性相机
+	
+reciprocal [rɪ'sɪprəkl] adj.相互的；互惠的
+	商：reciprocal trading 互惠贸易/reciprocal agreement 互惠协定/reciprocal benefit 互惠互利
+	派：reciprocally adv.相互地；互惠地
+	
+foundry ['faʊndri] n.铸造车间，铸造厂
+	搭：iron founfry 铸铁厂/foundry worker 铸造工人
