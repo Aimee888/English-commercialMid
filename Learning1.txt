@@ -412,3 +412,63 @@ reciprocal [rɪ'sɪprəkl] adj.相互的；互惠的
 	
 foundry ['faʊndri] n.铸造车间，铸造厂
 	搭：iron founfry 铸铁厂/foundry worker 铸造工人
+	
+	
+Day48
+
+receipt [rɪ'si:t] n.收条，收据；收到；[pl.]收入，进款
+	商：net/gross receipt 净/总收入/make out a receipt 填写收据
+	搭：in receipt of 收到/on/upon receipt of 一收到...即
+	听说小站：
+	M: When will we get the payment?
+	我们什么时候能收到货款？
+	W: It will be arranged upon receipt of the goods.
+	一收到货我们就会安排付款。
+	
+cement [sɪ'ment] vt.用水泥黏合；加强，巩固 vi.粘紧，凝结 n.水泥；纽带，凝聚力
+	例：Frequent economic cooperation could cement the friendship between different countries.
+	频繁的经济合作能够增强不同国家之间的友谊。
+	搭：the cement of society 社会维系的纽带/cement floor 水泥地板
+	派：cementation n.胶结，黏结
+	
+recoup [rɪ'ku:p] vt.收回(成本)；弥补(亏损)，补偿
+	例：It is difficult for the investors to recoup their investment from the project in the short run.
+	投资者们很难在短期内从这个项目中收回投资成本。
+	商：recoup the losses 弥补损失
+	
+risk [rɪsk] n.危险，风险；保险对象 vt.冒险做；冒...的危险；使遭受...的危险
+	例：She is ambitious and risks all her capital on the new project.
+	她野心勃勃，冒险将所有资本投入新的项目中。
+	商：financial risk 财政风险/risk capital 风险资本/risk-free investment 零风险投资
+	搭：at the risk of 冒着...的风险/risk doing sth.冒险做某事/at one's own risk 自担风险，责任自负
+	派：risky adj.危险的；冒险的(例：a risky investment 有风险的投资)/risk-taker n.冒险者；风险承担者
+	
+output ['aʊtput] n.产量；输出，输出功率 vt.输出(信息、数据等)
+	商：increase/maintain/reduce output 提高/维持/减少产量
+	搭：information output 信息输出/output device 输出设备/output data 输出数据
+	
+board [bɔːd] n.木板，纸板；伙食；董事会，理事会 vt.上(船、车或飞机) vi.登机，上传；搭伙，膳宿
+	例：Ann will put forward her recommendation to the board before next Monday.
+	安将于下周一之前将自己的建议提交给董事会。
+	商：board meeting 董事会议/board of directors 董事会/board of governors 理事会，总裁委员会
+	搭：on board 在船(或飞机)上/above board 光明正大的，公开的/remove sb. from the board 取消某人的董事资格
+	派：boarder n.付费寄宿者；寄膳宿者
+	
+statement ['steɪtmənt] n.陈述，声明，说法；结算单，报表；财务报告；借贷对照表
+	例：The official statement reveals that it is very hard to curb the uprising trend of housing prices in the short run.
+	这份官方声明表明，在短期内抑制房价上涨趋势是很困难的。
+	商：statement of account 对账单，账目报表/bank statement 银行结单报表/financial statement 财务报表/income statement 损益表
+	搭：public/written statement 公开/书面声明/make/issue a statement 发表声明
+	
+frame [freɪm] n.框架；结构 vt.表达；制定
+	例：The convention is held in emergency to frame a mechanism to cope with the global economic crisis.
+	这次紧急召开的会议是为了制定一套应对全球性经济危机的机制。
+	搭：be in/out of frame 参加/不参加/time frame 时间范围
+	
+antitrust [,ænti'trʌst] adj.反垄断的，反托拉斯的
+	商：antitrust law 反垄断法/antitrust investigation 反垄断调查/antitrust regulator 反垄断监管机构
+	
+handout ['hændaʊt] n.捐赠品；救济品；政府拨款；传单；讲义
+	例：The poor man lost his job three months ago and he has to live on handouts now.
+	这个可怜的家伙已经失业三个月了，他目前不得不依靠救济品来生活。
+	搭：circulate/print handouts 传阅/打印宣传材料
