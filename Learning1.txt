@@ -536,3 +536,54 @@ diplomatic [,dɪplə'mætɪk] adj.外交的；有手腕的；灵活多变的
 	我们希望通过更灵活的方式来解决与另外一家公司的争端。
 	搭：establish/break off diplomatic relations 建立/断绝外交关系/Diplomatic Service 外交部门
 	派：diplomatically adv.外交上/diplomatist(=diplomat) n.外交官；善于交际的人
+	
+	
+Day50
+
+Eurocurrency ['jʊərəʊ,kʌrənsi] n.欧洲货币
+	商：Eurocurrency loan/market/agreement 欧洲货币贷款/市场/协定
+	
+passive ['pæsɪv] adj.被动的
+	例：You have no future in the company if you are just so passive and only to what the manager asks you to do.
+	如果你总是这么被动地只做经理让你做的事情，那你在这家公司是没有前途的。
+	派：passively adv.被动地/passivity n.被动(性)
+	
+motivate ['məʊtɪveɪt] vt.激励，激发；构成...的动机
+	例：They motivated the workers to work more efficiently by providing them with better welfare.
+	他们通过给工人提供更好的福利来激励他们更高效地工作。
+	派：motiavted adj.有动机的；有积极性的(例：highly motivated employees 积极性很高的雇员)/motivation n.积极性；动机
+	
+anniversary [,ænɪ'vɜːsəri] n.周年纪念日
+	例：All the Chinese people warmly celebrated the 60th anniversary of the People's Republic of China on October 1st,2009.
+	全体中国人民在2009年10月1日热烈庆祝中华人民共和国成立60周年。
+	搭：wedding anniversary 结婚周年纪念日/anniversary celebrations 周年庆活动/commemorate the anniversary 庆祝周年纪念日
+	
+designate ['dezɪgneɪt] vt.指定；指派；标出 adj.已任命未就职的
+	例：Our product is designated as the only dairy product for government procurement.
+	我们的产品被指定为政府采购的唯一乳产品。
+	搭：designate sb. to do 指派某人做/designate sb./sth. as 指定...为；任命...为
+	派：designated adj.指定的(例：designated supplier 指定的供应商)
+	
+downturn ['daʊntɜːn] n.低迷时期；下降趋势
+	商：economic downturn 经济低迷/downturn in sales/business 销售/营业额下降/undergo a downturn 经历低迷期
+	写作小站：
+	The influential leaders are discussing how to cope with the impact of the global downturn.
+	具有影响力的领导们正在讨论如何应对全球经济低迷的影响。
+	
+emotional [ɪ'məʊʃənl] adj.感情的，情绪的
+	例：A successful businessman should reduce the influence of emotional problems on his work to the minimum.
+	一个成功的商人应该将感情问题对其工作的影响降到最低。
+	派：emotionally adv.感情地
+	
+proceeds ['prəʊsi:dz] n.实收款项；收入，收益
+	例：You must pay tax for proceeds from the lottery.
+	你必须为中彩票得来的收入交税。
+	商：gross proceeds 总收入/net proceeds 净收入
+	
+infrastructure ['ɪnfrəstrʌktʃə(r)] n.基础建设；基础设施
+	例：The government plans to increase investment on infrastructure to bolster employment.
+	政府计划加大对基础设施的投资来增加就业。
+	派：infrastructural adj.基础建设的；基础设施的(例：infrastructural development 基础建设的发展)
+	
+billboard ['bɪlbɔːd] n.(路边)广告牌，招贴板 vt.宣传
+	搭：commercial billboard 商业广告牌/walking billboard 活动广告牌
