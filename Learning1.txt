@@ -699,3 +699,58 @@ wander ['wɒndə(r)] vt.漫步，漫游 vi.徘徊，游荡；迷路；难题 n.�
 	我没有偏离正题，只是想提一下这个事件的背景。
 	派：wanderer n.漫游者；流浪者/wanderings n.漫游；流浪；胡言乱语
 	
+
+
+Day53
+
+practice ['præktɪs] n.实践；惯例
+	例：It is our usual practice to ask the customer to pay 30% of the payment before production.
+	我们的惯例是要求客户在生产前预付30%的款项。
+	搭：in practice 实际上，事实上/put sth. into practice 将...付诸实践/practice makes perfect 熟能生巧
+	派：practical adj.实际的，现实的
+	
+compulsory [kəm'pʌlsəri] adj.义务的；必修的；强制的
+	例：Forced or compulsory labour is not allowed in manufacturing.
+	生产过程中不得使用强迫或强制劳工。
+	搭：be compulsory for 有义务做/compulsory education 义务教育
+	
+refill [,ri:fɪl] vt./['ri:fɪl] n.再装满，再注满
+	例：The refill packs are favoured by the consumers because they are cheaper and lighter.
+	由于更便宜、更轻便，补充装产品受到消费者的青睐。
+	搭：refill the wine glass 再次将酒杯斟满
+	派：refillable adj.可再次充满的，适于再装的
+	
+effective [ɪ'fektɪv] adj.有效的；给人印象深刻的；实际的
+	例：The contract became effective as of December 20th,2012.
+	本合同从2012年12月20日起生效。
+	派：ineffective adj.无效的/effectively adv.有效地；实际上/effectiveness n.效果；有效性(例：the effectiveness of products 产品的有效性)
+	
+compliment ['kɒmplɪmənt] n.赞美(话)，恭维(话)；[pl.]致意，问候 vt.称赞，恭维
+	例：His professional performance won sincere compliments.
+	他专业的表现赢得了真诚地赞美。
+	搭：compliment sb. on 就...表扬某人/pay sb. a compliment 对某人表示赞扬/compliments slip 致意便条，礼贴
+	派：complimentary adj.免费赠送的；赞美的(例：complimentary ticket 赠票)
+	
+inclusive [ɪn'klu:sɪv] adj.包含的，包括的
+	例：It has to be made clear that my quotation is not inclusive of delivery.
+	需要说清楚地是，我的报价不含运费。
+	派：inclusively adv.包含地；概括地/inclusive-ness n.包容性
+	
+depreciate [dɪ'pri:ʃieɪt] v.(使)贬值；降价；轻视
+	例：The real value of currency depreciates as the result of inflation.
+	通货膨胀导致货币实际价值的降低。
+	商：depreciate one's achievement 贬低某人的成就/depreciate oneself 自卑
+	
+margin ['mɑːdʒɪn] n.边缘部分；页边的空白；利润；定金
+	商：profit margin 利润率/gross margin 毛利/margin cover 弥补差额的资金
+	搭：high/low margin 高/低利润/on the margin of 处于...的边缘
+	派：marginal adj.小的；非主体的；空白处的 n.边缘席位(例：marginal costing 边际成本计算)
+	
+wi-fi ['waɪfaɪ] n.无线网络
+	例：People's life and work are getting more and more rapid, convenient and efficient with the application of wi-fi technology.
+	随着无线上网技术的应用，人们的生活和工作变得越来越快捷、方便和高效。
+	
+go-slow [,gəʊ'sləʊ] n.怠工；减慢 adj.怠工的
+	例：The union organised a go-slow to show their protest against the decision.
+	工会组织怠工以表达他们对该决定的抗议。
+	搭：call/organise a go-slow 号召/组织怠工。
