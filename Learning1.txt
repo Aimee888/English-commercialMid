@@ -754,3 +754,58 @@ go-slow [,gəʊ'sləʊ] n.怠工；减慢 adj.怠工的
 	例：The union organised a go-slow to show their protest against the decision.
 	工会组织怠工以表达他们对该决定的抗议。
 	搭：call/organise a go-slow 号召/组织怠工。
+	
+	
+	
+Day54
+
+debit ['debɪt] n.(账簿的)借方；记入借方的款项 vt.记入(账户的)借方 
+	商：debit balance 借方余额/debit card 借记卡/debit column 借方栏/debit note 借项通知单
+	搭：debit an account 记入借方账户
+	
+conduct [kən'dʌkt] vt.实施，进行；引导，管理
+	例：We are very interested in the company's credit standing and its ability to conduct business.
+	我们对这家公司的信誉和业务能力非常感兴趣。
+	搭：conduct an experiment 进行实验/conduct an inquiry 进行询问/conduct a survey 进行调查
+	派：conduction n.传导/conductive adj.能传导(电、热等)的/conductor n.(管弦乐队的)指挥；售票员(例：bus conductor 公共汽车售票员)
+	
+regardless [rɪ'gɑːdləs] adj./adv. 不管的(地)；不顾的(地)；不注意的(地)
+	例：All the members protested, but the chairman carried on regardless.
+	所有成员都极力反对，但主席仍置之不理，一意孤行。
+	
+market ['mɑːkɪt] n.市场，集市；股市；行情，销路 vt.销售；推销
+	商：monopolise the market 垄断市场/market share 市场占有率，市场份额/market value 市场价值/market price 市场价/stock market 股票市场/market segmentation 市场细分
+	搭：come on the market 开始在市场上销售；上市/flood the market(大量同类商品)充斥着市场
+	派：marketer n.市场营销人员/marketable adj.畅销的，销路好的(例：marketable products 畅销产品)
+	
+liaison [li'eɪzn] n.联络，联系；联系人
+	例：We hope you can work in close liaison with our investigation.
+	我们希望你能密切配合我们的调查。
+	搭：liaison officer 联络员
+	
+asset ['æset] n.有价值的人(或物)；优点，才能；[常pl.]资产；财产
+	商：fixed assets 固定资产/current assets 流动资产/tangible assets 有形资产/assets value 资产价值/assets management 资产管理
+	
+response [rɪ'spɒns] n.回答，答复；反应，响应
+	例：The company began to accept on-line orders in response to the consumers' requirements.
+	为了满足消费者的要求，这家公司开始接受网上订单。
+	搭：in response to 作为对...的答复/response rate 回复率；回收率
+	
+stall [stɔːl] v.(使)熄火；(使)停顿，停止；拖延 n.货摊；(飞行器等)失控下降；熄火
+	例：The trade talk was stalled with both parties refusing to compromise.
+	由于双方都不妥协，贸易洽谈陷入僵局。
+	商：market stall 市场上的货摊
+	搭：stall on/over 在...上拖延时间
+	
+net [net] adj.(指金额)净余的，纯粹的；(指重量)净的；(指价格)固定的 vt.净赚；净获 n.网 
+	例：The sales of the products net ted $10000.
+	这些产品的销售收入净额一万美元。
+	商：net assets value 资产净值/net book value 账面净值/net income 净收益/net loss 净亏损/net profit 净利润/net weight 净重
+	
+impulse ['ɪmpʌls] n.冲动，心血来潮；推动力
+	商：impulse buying 即兴购买
+	搭：act on impulse 冲动行事；意气用事
+	派：impulsive adj.任性的；易冲动的
+	写作小站：
+	Economic boom and lowering interest rates give an impulse to the struggling real estate industry.
+	经济繁荣与利率下调让陷入困境的房地产企业起死回生了。
