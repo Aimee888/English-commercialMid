@@ -809,3 +809,64 @@ impulse ['ɪmpʌls] n.冲动，心血来潮；推动力
 	写作小站：
 	Economic boom and lowering interest rates give an impulse to the struggling real estate industry.
 	经济繁荣与利率下调让陷入困境的房地产企业起死回生了。
+	
+	
+	
+Day55
+
+link [lɪŋk] n.环；关系，联系；纽带 v.连接；联合；携手
+	例：International trade is a vital link between different countries.
+	国际贸易是不同国家间的重要纽带。
+	商：establish/maintain trade links 建立/维护贸易关系
+	搭：link with 连接；与...联系起来/key link 关键环节
+	派：linkage n.联系；连接
+	
+deflate [dɪ'fleɪt] v.(使)缩小；通货紧缩，物价下降；(使)泄气
+	例：The up-regulating of the required reserve ratio deflated money supply.
+	上调准备金率使货币供应量紧缩。
+	派：deflation n.通货紧缩/deflationary adj.通货紧缩的(例：deflationary policy 通货紧缩政策)
+	
+confidential [,kɒnfɪ'denʃl] adj.秘密的，机密的；信任的；亲密的；担任机密工作的
+	商：confidential agreement 秘密协议/confidential data 机密资料
+	派：confidentiality n.机密(例：commercial confidentiality 商业机密)
+	写作小站：
+	The confidential technical information should be kept with great care and should not be disclosed to any third party.
+	应该十分谨慎地保守这项技术的机密信息，不能透漏给任何第三方。
+	
+abuse [ə'bju:s] n.滥用；虐待；辱骂 [ə'bju:z] vt.滥用；虐待；辱骂
+	例：The government should make sure that the powers of public servants will not be abused.
+	政府应该确保公务员权利不被滥用。
+	搭：abuse of power 滥用职权/be open to abuse 易被人钻空子
+	派：abuser n.滥用者/abusive adj.辱骂的；滥用的；虐待的
+	
+declare [dɪ'kleə(r)] vt.宣布，声明；断言 vi.申报
+	例：If passengers had nothing to declare, they could go through the Green Channel.
+	如果乘客没有物品要申报，可以走绿色通道。
+	商：declare bankruptcy 宣布破产
+	搭：declare against/for 声明反对/支持 
+	派：declared adj.公开宣布的(例：a declared statement 一份公开宣布的声明)/decla-ration n.宣布，声明；申报(例：declaration of income 收入申报表/declaration of solvency 清偿声明书)
+	
+ascend [ə'send] vi.上升；追溯
+	例：Our digital products have already ascended into the international market.
+	我们的数码产品已经跻身国际市场。
+	派：ascendant adj.上升的；占优势地；支配的/ascendancy n.支配地位；优势
+	
+outline ['aʊtlaɪn] n.轮廓；简述，摘要 vt.描画轮廓；概述
+	例：Due to time limits, he just showed us the outline of his proposal.
+	由于时间限制，他只向我们展示了建议书的提纲。
+	搭：outline map/sketch 略图/草图/in outline 概括地，扼要地
+	
+network ['netwɜːk] n.网络 vi.建立关系网
+	例：The company has constructed a nationwide sales network through the local agents and branches.
+	通过当地的代理商和分支机构，这家公司已经建立起了一个全国性的销售网络。
+	搭：be linked to/share a network 连接到/共享网络/network terminal 网络终端
+	
+factor ['fæktə(r)] n.因素，要素；应收账款承购商 vt.包括...因素
+	例：Technological innovation is an important factor to strengthen the enterprise's core competitiveness.
+	技术创新是增强企业核心竞争力的一个重要因素。
+	搭：factor sth. in/into sth. 在某事中考虑某因素
+	
+offset ['ɒfset] vt.抵消；弥补 adj.胶板印刷的
+	例：The encouraging sales in the domestic market could not offset the weakness in the overseas market.
+	国内市场振奋人心的销售形势不能抵消海外市场的疲软
+	搭：offset...against 用...来抵消/offset printing 胶印
