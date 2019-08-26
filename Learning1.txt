@@ -857,7 +857,7 @@ outline ['aʊtlaɪn] n.轮廓；简述，摘要 vt.描画轮廓；概述
 	搭：outline map/sketch 略图/草图/in outline 概括地，扼要地
 	
 network ['netwɜːk] n.网络 vi.建立关系网
-	例：The company has constructed a nationwide sales network through the local agents and branches.
+	例：The company has constructed a nationwide sales network through the local agents and branches. 
 	通过当地的代理商和分支机构，这家公司已经建立起了一个全国性的销售网络。
 	搭：be linked to/share a network 连接到/共享网络/network terminal 网络终端
 	
@@ -870,3 +870,50 @@ offset ['ɒfset] vt.抵消；弥补 adj.胶板印刷的
 	例：The encouraging sales in the domestic market could not offset the weakness in the overseas market.
 	国内市场振奋人心的销售形势不能抵消海外市场的疲软
 	搭：offset...against 用...来抵消/offset printing 胶印
+	
+	
+Day56
+
+content ['kɒntent] n.内容，目录；满足；容量
+	例：Eric is ambitious and is not content with just being the vice manager.
+	埃里克很有野心，不满足于只做副经理
+	搭：be content with 对...很满意/be content to do 乐意去做/content oneself with sth.对某物感到满足，满足于
+	派：contented adj.满足的；惬意的/contentious adj.争论的；有争议的(例：a contentious issue 一个有争议的问题)
+	
+appendix [ə'pendɪks] n.附录；附加物；阑尾
+	例：We mustn't neglect the appendix part when signing a contract.
+	我们签合同时千万不能忽视附录部分。
+	
+outlay ['aʊtleɪ] n.费用，支出
+	商：outlay account 支出账户/financial/capital outlay 财政/资本支出
+	
+coup [ku:] n.政变；出乎意料的行动 v.(使)倾斜
+	搭：stage/mount a coup 发动政变/an abortive coup 一次失败的政变
+	
+ahead [ə'hed] adj.向前的；在前的；领先的 adv.向前地；领先地
+	例：Private enterprises are forging ahead on their own.
+	私人企业正靠着自己的力量稳步前进。
+	搭：ahead of 在...的前面
+	
+diminish [dɪ'mɪnɪʃ] v.(使)减小，(使)缩小 
+	例：Under the conditions of the economic recession, we have no choice but to diminish the loss to the minimum.
+	在经济萧条的情况下，我们别无选择，只能尽力把损失降到最低。
+	商：diminishing returns 递减的收益
+	搭：diminished responsibility (因精神失常等)减轻的罪责
+	
+drill [drɪl] n.钻头；操练，训练 v.钻(孔)，打(眼)；操练，训练
+	例：They work hard to drill for more oil to meet the demands of domestic consumers.
+	他们努力钻出更多石油以满足国内消费者的需求。
+	搭：fire drill 消防演习/drill sth. into sb.反复向某人灌输某事
+	
+unique [ju'ni:k] adj.独特的；稀罕的；唯一的，独一无二的
+	例：This sidtrict made use of its unique resources and location advantages to develop eco- tourism and had made considerable economic benefits.
+	该地区利用其独特的资源和区位优势来发展生态旅游，已经获得了客观的经济效益。
+	派：uniquely adv.独特地/uniqueness n.独特性
+	
+energise ['enədʒaɪz] vt.激励；使活跃；供给...能量
+	例：The leaders of the company ofen organise trips to energise their staff.
+	公司领导经常组织旅游来激励员工。
+	
+menu ['menju:] n.菜单
+	搭：menu bar 菜单栏/pull-down menu 下拉式菜单
