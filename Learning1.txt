@@ -917,3 +917,60 @@ energise ['enədʒaɪz] vt.激励；使活跃；供给...能量
 	
 menu ['menju:] n.菜单
 	搭：menu bar 菜单栏/pull-down menu 下拉式菜单
+	
+	
+Day57
+
+variety [və'raɪəti] n.变化；多样化；种类，品种
+	例：If things go well, the company can get a variety of benefits from the new project.
+	如果事情进展顺利，这家公司可以从这个新的项目中获得各种好处。
+	商：product variety 产品种类；产品多样性
+	搭：a variety of 各种各样的；种种/variety show 综艺节目/variety store 杂货店
+	
+receive [rɪ'si:v] v.收到，得到；接收；接待
+	例：The important customer was received as the honoured guest at our company.
+	这位重要的客户在我们公司受到贵宾级的接待。
+	搭：receive information/payment 收到信息/付款
+	派：received adj.被承认的，被一致认可的(例：received pronunciation 标准发音)
+	
+on business 出差；业务方面
+	例：It is not easy for you to meet him in the office, because he is frequently on business.
+	你很难在办公室碰到他，因为他经常出差。
+	
+dull [dʌl] adj.乏味的；不景气的；(天气等)阴沉的；愚钝的；不锋利的
+	例：Companies have begun to cut jobs and slash marketing budgets, since the market has been dull recently.
+	由于最近市场不景气，各个公司都开始裁员并大幅缩减营销预算。
+	搭：dull pupil 愚笨的学生/dull weather 沉闷的天气
+	派：dully adv.乏味地，单调地/dullness n.乏味，单调
+	
+reject [rɪ'dʒekt] vt.拒绝；驳回；摒弃；拒纳，退回
+	例：The proposal on the marketing campaign was rejected on the grounds of budget.
+	由于预算原因，关于营销活动的建议没有被采纳
+	派：rejection n.抛弃；拒绝；被抛弃的东西(例：rejection letter 拒绝信)
+	
+request [rɪ'kwest] n./vt. 请求，要求
+	例：Our company requested every employee not to disclose any information about our latest product before it was available on the market.
+	我们公司要求每位员工在我们的最新产品面试之前不得透漏其任何消息
+	搭：at the request of sb./at one's request 在某人的要求下
+	
+regain [rɪ'geɪn] vt.恢复；重新获得；收回 vi.上涨
+	例：We will do everything we can to regain the market share that we have lost.
+	我们会不惜一切代价收回我们丢掉的市场份额。
+	搭：regain consiousness 恢复知觉
+	
+track [træk] n.轨道；足迹，踪迹；小道 v.追踪
+	例：The enterprise was back on track through government support and through strengthening capital management.
+	通过政府扶持及加强资金管理，这家企业重新走上了正轨。
+	商：track record(多年的)成就或业绩记录
+	搭：back on track 步入正轨；恢复正常/keep/lose track of 与...保持/失去联系/track...down 搜索到；跟踪找到
+	派：tracker n.跟踪者/trackless adj.无踪迹的
+	
+monitor ['mɒnɒtə(r)] vt.监控；监测 n.监视器，检测器；(计算机)显示器
+	例：They conduct a market investigation to monitor the progress of the work.
+	他们通过做市场调查来监控工作的进展。
+	搭：monitor screen 监视屏，监控画面/monitor performance/standards 监控业绩/标准
+	
+invincible [ɪn'vɪnsəbl] adj.无敌的，不能征服的
+	例：Innovation is the most powerful weapon to make an enterprise invincible.
+	创新是使一个企业立于不败之地的最强有力的武器。
+	派：invincibility n.无敌，不可战胜
