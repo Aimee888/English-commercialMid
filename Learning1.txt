@@ -974,3 +974,101 @@ invincible [ɪn'vɪnsəbl] adj.无敌的，不能征服的
 	例：Innovation is the most powerful weapon to make an enterprise invincible.
 	创新是使一个企业立于不败之地的最强有力的武器。
 	派：invincibility n.无敌，不可战胜
+	
+
+Day58
+
+surplus ['sɜːpləs] n.过剩，剩余；盈余；贸易顺差 adj.过剩的，多余的
+	例：China's trade surplus began to decline because of surging import volumes and a deteriorating trade environment.
+	由于进口量飙升和贸易环境恶化，中国的贸易顺差有所下降
+	商：budget surplus 预算盈余/surplus cash/funds 剩余的现金/资金 
+	搭：in surplus 剩余；盈余 
+	
+vuluerable ['vʌlnərəbl] adj.脆弱的；易受伤害的；易感染的
+	搭：vulnerable group 弱势群体/be vulnerable to 易受...伤害(或影响)
+	派：vulnerability n.弱点；易损性(例：financial vulnerability 金融脆弱性)
+	写作小站：
+	The import ans export industry is quite a sensitive industry and is vulnerable to international relations and political volatility.
+	进出口业是一个非常敏感的行业，它容易受到国际关系和政治波动的影响。
+	
+canvass ['kænvəs] vi.游说，拉选票 vt.到处游说；拉选票；调查(民意)，征求(意见) n.游说；讨论
+	例：The government has been canvassing opinions on the issues of environmental problems.
+	政府一直在征求民众在环境问题上的意见
+	商：canvass for subscription 招徕订货
+	搭：canvass support 努力赢得支持/canvass sb. for sth. 为某事向某人游说/carry out a canvass 拉选票 
+	派：canvasser n.游说者；推销员
+	
+overall [,əʊvər'ɔːl] adj.全部的；一切在内的 adv.全部地；总的说来 ['əʊvərɔːl] n.工装裤；罩衫
+	例：The project will cost $1.5 million overall.
+	这个项目总计要花费1500万美金。
+	商：overall cost 总成本/the overall rise in unemployment rate 失业率的总体上升
+	搭：overall majority 绝大多数
+	
+accepting bank 承兑银行
+	例：The accepting bank honours the L/C and transfers requested funds to our company.
+	承兑引港承兑信用证并将资金汇给我们公司。
+	
+delegate ['delɪgət] n.会议代表，委员会委员；议员 ['delɪgeɪt] vt.委派(或选举)...为代表；授(权)，把...委托给
+	例：Econnomists have now been delegated to work on a draft settlement on deflation.
+	现已委派经济学家起草解决通货紧缩的草案。
+	搭：delegates of industry and commerce 工商界代表
+	派：delegation n.代表团(例：delegation of enterprises 企业代表团)
+	
+	
+Day58
+
+The only person you should try to be better than is the person you were yesterday.
+你需要努力去超越的人，唯有昨天的自己。
+
+laser printer 激光打印机
+	例：The laser printer has become the most popular printer in the market because of its good performance and high efficiency.
+	由于性能好、效率高，激光打印机成为市场上最受欢迎的打印机
+	
+concept ['kɒnsept] n.观念，概念
+	例：Consumers began to accept the self-service concept of fast food popularised by McDonald's.
+	消费者开始接受由麦当劳普及开来的快餐自助服务理念
+	商：the concept of scientific development 科学发展观/consumption concept 消费理念/management concept 管理理念
+	搭：stereotyped concept 传统观念
+	派：conception n.概念；构思/conceptive adj.概念的；有想象力的
+	
+prowess ['praʊəs] n.高超的技艺，非凡的才能
+	搭：academic prowess 学术造诣/technical prowess 技术才能
+	
+propagate ['prɒpəgeɪt] vt.传播；宣传；繁殖
+	例：TV advertising is not allowed to be used to propagate anything concerning obscenity, violence, etc.
+	电视广告不得用来传播淫秽、暴力等内容。
+	派：propagation n.传播，宣传；增值；繁殖/propagator n.传播者；培植箱
+	
+duty ['dju:ti] n.关税；值班；职务
+	商：customs duty 关税/import duty 进口税/stamp duty 印花税/transfer duty 过户税，交易税
+	搭：be on/off duty 在值班/下班
+	
+price [praɪs] n.价格，价钱 vt.给...定价，标价
+	商：competitive price 有竞争力的价格/retail price index 零售价格指数/price control 价格管制/price discrimination 价格歧视，价格差别/price range 价格幅度
+	搭：at any price 不惜任何代价/at a price 花大钱/beyond price 无价的，极宝贵的/put a price on 为(贵重物品)开价
+	听说小站：
+	M: Our latest product targets middle-income consumers. So how should we price it?
+	我们的最新产品面向中等收入人群。那么我们该如何定价呢？
+	W: Considering the factors of costs and our target consumers, we expected to price it at about $500.
+	考虑到成本和目标消费者的因素，我们预计将价格定在500美元左右。
+	
+reputable ['repjətəbl] adj.值得信赖的；声誉好的
+	商：reputable dealer/supplier 声誉良好的交易商/供应商
+	派：disreputable adj.不值得信赖的；声誉不好的
+	
+gearing ['gɪərɪŋ] n.联动比率；资本与负债比率
+	例：It can be inferred from the gearing how much of the company's funds is provided by the debtee.
+	可以从资本与负债比率中推算出企业的资金中有多少是由债权人提供的。
+	商：increase/reduce gearing 增加/减少资本与负债比率
+	
+optimise ['ɒptɪmaɪz] vt.使优化；充分利用
+	例：In order to make use of the budget effectively, the company began to optimise the structure of expenditures.
+	为了有效地使用预算，公司开始优化支出结构
+	派：optimisation n.最佳化，最优化
+	
+arbitration [,a:bɪ'treɪʃn] n.仲裁，公断；鉴定；检验
+	商：foreign-related arbitration 涉外仲裁/arbitration clause 仲裁条款/arbitration pannel 仲裁小组
+	搭：take sth. to arbitration 将...提交仲裁
+	写作小站：
+	In order to save both of our time and energy, we sincerely holp we can solve our disputes through arbitration rather than appealing them to the court.
+	为了节省彼此的时间和精力，我方真诚地希望我们能通过仲裁解决争端，而不是向法院提起诉讼。
