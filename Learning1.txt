@@ -1124,3 +1124,56 @@ falter ['fɔːltə(r)] vi.开始减弱；颤抖；蹒跚；结巴地说
 	例：If the economy falters in one country, it is vulnerable to political unrest.
 	如果一个国家经济发生衰退，那么该国很容易出现政治不稳定。
 	派：faltering adj.衰退的；颤抖的；摇晃的(例：faltering economy 停滞不前的经济)
+	
+
+Day60
+
+platform ['plætfɔːm] n.平台
+	商：operation platform 操作平台
+	搭：launch platform 发射台/multimedia platform 多媒体平台/platform game 平台游戏
+	
+scheme [ski:m] n.计划，方案；阴谋；组合，配合 v.密谋，策划
+	例：The company designed a training scheme to improve the staff's qualifications and working abilities.
+	公司设计了一个培训方案来提高员工资质和工作能力
+	搭：scheme for sth. 某事的方案/the scheme of things 事物的规律；计划之内/scheme to do sth. 策划做某事
+	派：scheming adj.常搞阴谋的；诡计多端的/schemer n.搞阴谋的人
+	
+capable ['keɪpəbl] adj.有能力的，能干的；有...可能性的
+	搭：be capable of sth./doing sth. 有能力做某事
+	派：capability n.能力，性能
+	听说小站：
+	M: I'm wondering whether we can receive our goods next week.
+	我想知道我们下周能否收到货。
+	W: Please don't worry. We are capable of delivering them on time.
+	请不要担心，我们能按时交货。
+	
+bubble ['bʌbl] n.气泡，泡沫 v.(使)冒泡；滔滔不绝地说
+	例：The stock bubble and property bubble would be great hidden dangers for the healthy development of economic entities.
+	股市泡沫和房地产泡沫是经济实体健康发展的极大隐患
+	搭：bubble economy 泡沫经济(资产价值超越实体经济，极易丧失持续发展能力的宏观经济状态)
+	
+cut-price adj.打折；廉价的
+	商：cut-price goods/fare 减价商品/廉价票/cut-price store/supermarket 折价商店/超市
+	
+elasticity [ɪ,læ'stɪsəti] n.弹性；弹力；灵活性
+	例：Elasticity of demand refers to the responsiveness of change in quantity demanded of a commodity or service as a result of change in its prices.
+	需求弹性指的是由于产品或服务价格的变化而引起的市场需求量变化的反应。
+	
+strive [straɪv] vi.努力，奋斗；抗争
+	搭：strive for/against 努力争取/反对 
+	派：striving n.努力，奋斗 
+	听说小站：
+	On the strength of a flourishing economy and advanced technology, the country is striving to expand its global reach.
+	凭借繁荣的经济和发达的科技，该国正努力扩大其全球影响力。
+	
+switch [swɪtʃ] v.改变，转变，转换；用鞭子抽打 n.开关；转换，转变；鞭子
+	例：The government provided subsidies to encourage companies to switch from coal to cleaner energies.
+	政府通过提供补助来鼓励企业用更加清洁的能源来代替煤
+	搭：switvh on/off 打开/关掉/switch over 换台；换频道
+	
+warehouse-keeper n.仓库管理员
+	商：warehouse-keeper's order 出仓许可证/warehouse-keeper's receipt 仓单；仓库收据
+	
+liability [,laɪə'bɪləti] n.责任；不利条件；碍事的人(或物); [pl.]负债，债务
+	商：liability insurance 责任保险/joint and several liability 连带责任/current liabilities 流动负债/pension/tax liabilities 养老金/税收方面的负债
+	搭：liabilities and obligations 责任和义务
