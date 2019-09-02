@@ -1,0 +1,58 @@
+Day61
+
+dismay [dɪs'meɪ] n.沮丧；惊慌 vt.使沮丧；使惊慌
+	例：The government's attitude towards the economic crisis dismayed all people.
+	政府对待经济危机的态度令全体人民很失望
+	搭：to one's dismay 令某人失望的是/in dismay 沮丧；吃惊
+	派：dismayed adj.惊愕的；失望的
+	
+cash [kæʃ] n.现金，现付款 vr.兑现
+	例：A commission charge is requested if you want to cash a cheque.
+	兑现支票时要收取手续费
+	商：cash crop 经济作物/cash sale 现金销售/cash settlement 现金结算/cash voucher 凭单/cash statement 现金日报表，库存表/cash flow(公司、政府等的)现金流转/cash on delivery 货到付款
+	搭：cash in 把...兑换成现金/be strapped for cash 缺钱/cash cow 摇钱树
+	派：cashless adj.不用现钞的，使用信用卡、借记卡等结算的(例：cashless society 无现钞的社会)
+	
+dead [ded] adj.死的；无生气的 adv.完全地；直接地 n.死；死人
+	例：We are dead against your dishonest business behaviour.
+	我们坚决反对贵方不诚实的商业行为。
+	商：dead capital 呆滞资本/dead assets 报废资产/dead account 坏账，呆账/dead cheque 无效支票/dead loss 净亏损/dead cat bounce 死猫弹跳(股市大跌后的短暂回升)
+	搭：more dead than alive 精疲力竭/dead to 对...麻木的/dead silence 静默无声/dead in water 被搁置的
+	派：deadly adj./adv.非常地(地)；致命的(地)
+	
+hammer ['hæmə(r)] vt.压低(股票等)的价格；击败；敲打 vi.反复敲打，连续击打；致力于 n.锤；(拍卖等用的)醒木，槌
+	例：The Middle East tension and the devaluation of the US dollar hanmmered the price of oil stocks.
+	中东的紧张局势和美元的贬值令石油股票价格受到重创。
+	商：under the hammer 被拍卖
+	搭：hammer away at 努力做/hammer home 给...以深刻印象/hammer out 竭力想出(解决办法等)
+	派：hammered adj.捶打成了，锻造的；喝醉的/hammering n.锤击；攻击
+	
+seasoned ['si:znd] adj.经验丰富的，老练的；调过味的
+	例：There is no constant winner on the stock market, even the seasoned investor.
+	股市上没有永远的赢家，即使老练的投资者也不例外
+	
+entrepreneurial [,ɒntrəprə'nɜːriəl] adj.企业家(精神)的 
+	商：entrepreneurial earnings 企业家收益/entrepreneurial project 创业项目/entrepreneurial flair 企业家才能
+	
+accountant [ə'kaʊntənt] n.会计；会计师
+	例：An accountant must be sensitive to numbers.
+	会计师必须对数字敏感。
+	商：certified/registered accountants 注册会计师，执业会计师
+	
+beleaguered [bɪ'li:gəd] adj.包围的，围困的
+	例：Relief supplies are delivered to the beleaguered cities.
+	救灾物资被发往受困城市
+	
+steer [stɪə(r)] v.驾驶；操纵；沿着(某方向)前进
+	搭：steer clear of 避开
+	派：steering n.转向设置
+	写作小站：
+	The government is making great efforts to steer the national economy towards stable and healthy development.
+	政府正努力引导国民经济实现平稳、健康的发展。
+	
+independent [,ɪndɪ'pendənt] adj.独立的；单独的；无党派的；不受约束的
+	例：There are more than ten departments in the company and each department has their own independent account.
+	这家公司有十多个部门，每个部门都有自己单独的账户。
+	商：independent operation 独立经营
+	搭：be independent of 自立的，不受...影响的
+	派：independence n.独立/independently adv.独立地
