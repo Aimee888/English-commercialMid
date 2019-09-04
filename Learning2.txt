@@ -109,3 +109,61 @@ induction [ɪn'dʌkʃn] n.就职；接纳会员
 	例：The mayor held a welcome banquet to celebrate the famous entrepreneur's induction into the local business community.
 	市长举行欢迎宴会，庆祝这位知名的企业家进入当地商界。
 	搭：induction course 入门课程；培训课程
+	
+	
+Day63
+
+regulator ['regjuleɪtə(r)] n.监管者，监管部门
+	例：It is difficult for the market regulator to catch every problem in the fast-moving and innovative financial market.
+	市场监管部门很难了解这个快速发展且具有创新性的金融市场的所有问题。
+	派：regulatory adj.(对工商业)有监管权的，监管的(例：regulatory bodies 监管部门)
+	
+scale [skeɪl] n.大小，规模；等级，级别；量度制；比例(尺)；刻度，标度；[pl.]天平，磅秤 vt.攀登，爬越
+	商：economy of scale 规模经济/on a large/global scale 大规模地/全球规模地
+	搭：scale down/back 相应缩减，按比例减少/scale up 按比例增加，扩大
+	派：full-scale adj.全方位的/large-scale adj.大规模的
+	
+vocation [vəʊ'keɪʃn] n.职业；使命；才能
+	搭：sense of vocation 使命感
+	派：vocational adj.职业的(例：vocational qualifications/trainings 职业资格证书/培训)
+	听说小站：
+	M: John has been dreaming of becomig a CEO.
+	约翰一直梦想着称为一名首席执行官。
+	W: Me too. But I know that I have no vocation for that.
+	我也想。但是我知道自己不是那块料。
+	
+markup ['mɑːkʌp] n.标高售价；毛利；涨价幅度
+	例：The present price will be maintained to the end of the month, and there will be a 10% markup next month due to the rising cost.
+	目前的价格将维持到本月底。由于成本上涨，下个月将涨价10%。
+	
+division [dɪ'vɪʒn] n.部门；分歧；差异
+	例：Our company is reorganised into four divisions.
+	我们公司被重组为四个部门。
+	商：sales division 销售部门/join/split a division 加入/分拆某个部门/the divisions between the rich and the poor 贫富差异
+	搭：division in/within sth. 在...上的分歧/division between...之间的分歧
+	派：divisional adj.部门的；分界的
+	
+roughly ['rʌfli] adv.概略地；粗糙地；令人不快地
+	例：Compared with last month, the sales volume roughly increased by 15% this month.
+	同上个月相比，这个月的销量大约增长了15%。
+	搭：roughly speaking 粗略地说
+	
+grapple ['græpl] vt.握紧；与...扭打 vi.全力以赴；尽力克服 n.抓紧
+	搭：grapple with  扭打；设法解决
+	写作小站：
+	The gap between the rich and the poor is just one of the critical problems that the government is grappling with.
+	贫富差距只是政府正竭力解决的几个关键问题之一。
+	
+occupancy rate 居住率，租用率
+	例：The hotels usually grant a big discount to improve the occupancy rate in the low season.
+	宾馆通常在淡季给予很大的折扣来提高入住率。
+	
+advocate ['ædvəkeɪt] vt.提倡，鼓吹，主张 ['ædvəkət] n.提倡者，拥护者；律师；代言人
+	例：He has a staunch advocate of free trade.
+	他以前是自由贸易的忠实拥护者。
+	商：advocate innovation 提倡创新/advocate entrepreneurship 宣扬企业家精神
+	派：advocator n.提倡者，拥护者 
+	
+maintenance ['meɪntənəns] n.维持，保持；维修，保养；抚养费
+	商：price maintenance 价格的维持/maintenance costs 维修成本
+	搭：routine maintenance 例行保养
