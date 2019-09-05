@@ -167,3 +167,59 @@ advocate ['ædvəkeɪt] vt.提倡，鼓吹，主张 ['ædvəkət] n.提倡者，
 maintenance ['meɪntənəns] n.维持，保持；维修，保养；抚养费
 	商：price maintenance 价格的维持/maintenance costs 维修成本
 	搭：routine maintenance 例行保养
+	
+	
+Day64
+
+priority [praɪ'ɒrəti] n.优先(权)；重点，优先考虑的事
+	例：The most urgent priority now is developing the national economy and stabilising the price levels.
+	当前最迫切的任务是发展国民经济和稳定物价水平。
+	搭：top priority dangwuzhiji/take priority over 优先做/get the priorities right 分出轻重缓急
+	
+reduce [rɪ'dju:s] v.减少；缩小；降低；概括，总结
+	商：reduce the price/expense/budget 降低价格/减少开支/消减预算
+	搭：reduce sth. to sth. 将...概括成
+	派：reducible adj.可简化的
+	
+limited ['lɪmɪtɪd] adj.有限的；受...限制的
+	商：limited company 股份(或责任)有限公司
+	
+prevent [prɪ'vent] vt.预防，防止；阻止
+	例：The government recognised the seriousness of the event and took steps to prevent its further expansion.
+	政府认识到了事态的严重性，并采取措施阻止其进一步扩大。
+	搭：prevent sb./sth. (from) doing sth. 防止...做某事
+	派：prevention n.预防；阻止(例：Prevention is better than cure. 防患于未然是上策。)/preventable adj.可预防的(例：preventable accident 可以预防的事故)
+	
+apprentice [ə'prentɪs] n.学徒，徒弟；实习生 vt.使拜师于；使当...的学徒 vi.当学徒，学艺
+	例：Hank was apprenticed to an advanced automobile mechanic in his early years.
+	汉克早年师从一名高级汽车修理工
+	商：apprentice of HR department/marketing department 人力资源部/营销部的实习生
+	派：apprenticeship n.学徒期，学徒身份；学徒制
+	
+full-on [,fʊl'ɒn] adj.全面的；不折不扣的
+	例：Fuji REAL 3D W3 is one of the latest digital cameras and it can provide the consumers with a full-on visual experience.
+	富士REAL 3D W3是一款最新的数码相机，它能给消费者带来全方位的视觉体验。
+	
+facilitate [fə'sɪlɪteɪt] vt.使便利；减轻...的困难
+	例：Their excellent reputation and constant adherence to the principle of quality first facilitated their success in the global market place.
+	他们良好的信誉以及对质量第一原则的一贯遵守帮助他们在国际市场上获得成功。
+	派：facilitator n.诱导者；推动...的事物/facilitation n.简易化；促进
+	
+reliable [rɪ'laɪəbl] adj.可靠的，可信赖的；真实可信的
+	例：The quality of Japanese electronic products is reliable.
+	日本电子产品的品质是值得信赖的。
+	搭：reliable supplier/business partner 可靠的供应商/可信赖的商业伙伴/reliable source 可靠的来源
+	派：reliability n.可靠性/reliably adv.可靠地；确实地
+	
+customise ['kʌstəmaɪz] vt.定制，定做
+	派：customisation n.用户化，专用化；定制/customised adj.定制的(例：customised product 定制产品)
+	听说小站：
+	M: The quality of this batch of goods is much higher than the standard ones.
+	这批货的质量比标准产品的质量要高出许多。
+	W: Of course! They are customised by our special customers.
+	那是当然的，它们是由我们的特殊顾客定制的。
+	
+succeed [sək'si:d] vt.继承；接替 vi.成功；继承，继任
+	例：Through these measures, the government has succeded in controlling inflation and reducing unemployment.
+	通过这些措施，政府已成功控制了通货膨胀、减少了失业人数。
+	搭：succeed to 继承；继任/succeed in 在...方面有成就；实现
