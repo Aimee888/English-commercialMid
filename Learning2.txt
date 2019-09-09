@@ -292,3 +292,54 @@ pack [pæk] vt.捆扎，把...打包 n.包裹；一捆
 accidental damage 意外损坏
 	例：Insurance can be used to level off accidental damage.
 	可以用保险来抵消意外损坏。
+	
+	
+Day66
+
+bargaining ['bɑːgənɪŋ] n.讨价还价；商谈，谈判
+	例：Simply speaking, international business negotiation is just bargaining.
+	简单来说，国际商务谈判就是讨价还价。
+	商：bargaining power 议价能力，谈判能力/bargaining chip/counter 谈判的筹码
+	
+omission [ə'mɪʃn] n.疏忽，遗漏；省略；删除
+	例：Please further check the letter of author-isation in case of any omission.
+	请再核实一下授权委托书，以防有什么遗漏。
+	
+logistics [lə'dʒɪstɪks] n.物流；后勤
+	商：logistics integration 物流一体化/logistics department后勤部门/logistics firm 物流公司
+	派：logistic adj.后勤的；物流的；逻辑的(例：logistics support 后勤支持)
+	
+activity [æk'tɪvəti] n.业务；活动，行动；活跃，活力
+	商：activity-based costing 基于作业的成本方法/promotion activity 促销活动/offline/online activity 线下/线上业务活动
+	
+outbreak ['aʊtbreɪk] n.(战争的)爆发；(疾病的)发作
+	例：The severe debt led to the outbreak of political crisis in Portugal.
+	严重的债务导致了葡萄牙政治危机的爆发。
+	
+swathe [sweɪð] n.狭长的条或片 vt.包裹；覆盖
+	例：The export business in a swathe of coastal areas developed rapidly with their favourable geographical position.
+	凭借其有利的地理位置，一大片沿海地区的出口业务快速发展了起来
+	派：swathe sb./sth. in sth. 把某人/某物用某物包起来
+	
+provincial [prə'vɪnʃl] adj.省的；地方性的；狭窄的；粗野的 n.地方居民；乡下人
+	例：The manager is very provincial and you'd better not show your dissatisfaction with him.
+	这个经理很粗野，你最好不要流露出对他的不满。
+	搭：provincial election 地方性的选举
+	派：provincially adv.外省地，地方地，偏狭地/provincialism n.胸襟狭隘；地方主义
+	
+dramatic [drə'mætɪk] adj.戏剧性的；生动的，逼真的；显著的；引人注目的
+	例：This financial policy is going to have dramatic effects on the Chinese economy.
+	这项金融政策将对中国经济产生显著影响。
+	商：dramatic increase/change/fall 剧增/剧变/暴跌/dramatic development 突飞猛进的发展
+	派：dramatically adv.戏剧地；引人注目地
+	
+bundle ['bʌndl] n.(一)包，(一)捆；一大笔钱 vt.包，捆 vi.匆忙地走；匆匆离开
+	例：To our surprise, the title gadget costs a bundle.
+	令我们吃惊的是，这个小玩意居然要花不少钱。
+	搭：a bundle of 一捆；一些/bundle sth. with sth.将...和...捆绑在一起
+	
+access ['ækses] n.进入；接近的机会；市场销路 vt.存取；接近；使用
+	例：Other countries' products are allowed to get access  to the Chinese market under the market economy.
+	在市场经济条件下，其他国家的产品允许进入中国市场。
+	搭：access to (使用或见到的)机会、权利
+	
