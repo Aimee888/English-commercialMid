@@ -343,3 +343,113 @@ access ['ækses] n.进入；接近的机会；市场销路 vt.存取；接近；
 	在市场经济条件下，其他国家的产品允许进入中国市场。
 	搭：access to (使用或见到的)机会、权利
 	
+
+Day67
+
+workfare ['wɜːkfeə(r)] n.工作福利制
+	例：The government is gradually establishing rural workfaces to provide social protection for vulnerable rural groups.
+	政府正在逐步建立农村工作福利制，为农村弱势群体提供社会保护
+	
+confidence ['kɒnfɪdəns] n.信心；信任；秘密
+	例：The young man is said to be very much in the sales director's confidence.
+	据说销售主管对这个年轻人非常信任。
+	搭：have confidence in 对...有信心/in confidence 秘密地；推心置腹地/gain confidence 获得信心/lack of confidence 缺乏信心/confidence trick 骗局
+	
+advert ['ædvɜːt] n.(=advertisement)广告 vi.谈及，(间接)提到
+	商：commercial advert 商业广告
+	
+moment ['məʊmənt] n.重要；契机；瞬间；重要时刻
+	例：Internet economy is the topic of the moment.
+	网络经济是当前最热门的话题。
+	搭：for the moment 暂时；目前/at the critical moment 在关键时刻/of moment 重要的
+	派：momentary adj.短暂的，片刻的/momentous adj.重大的，重要的/momentum n.势头；动力(例：a good economic development momentum 良好的经济发展势头)
+	
+coverage ['kʌvərɪdʒ] n.覆盖，覆盖范围；新闻报道
+	商：insurance coverage 保险范围
+	搭：media/press coverage 媒体/新闻报道/blanket coverage 统一承保；地毯式报道
+	
+blacklist ['blæklɪst] n.黑名单；进制贸易的(货物、公司及个人)名单
+	搭：on the blacklist 在黑名单上
+	听说小站:
+	M: This notorious customer always delays our payments and tries to look for some trivial matters to claim.
+	这个臭名昭著的客户总是拖欠付款，并试图寻找一些琐事来要求赔款。
+	He has already been placed on the blacklist.
+	他已经被我们列入黑名单了。
+	
+impose [ɪm'pəʊz] vt.把...强加于；征(税)；罚(款) vi.利用；欺骗
+	例：Many countries impose high tariffs to limit import from other countries.
+	许多国家征收高额关税来限制从他国进口商品。
+	商：impose limitation/restriction/constraint on 对...施加限制
+	搭：impose one's will on sb.将某人的意志强加于某人
+	派：imposition n.强加；征收/imposing adj.壮观的；使人印象深刻的
+	
+red [red] n.赤字；亏空 adj.红色的
+	例：Under such economic situations, the company has no other way but to operate in the red.
+	在这种经济形势下，这家公司除了负债经营别无他法
+	商：in the red 负债，亏损
+	搭：red tape 繁文缛节；官僚作风/red alert 紧急警报
+	
+authorise ['ɔːθəraɪz] vt.授权；批准，允许；委任
+	商：manage an authorised fund 管理认可基金
+	搭：be authorised by 经...批准/authorise sb. to do sth. 授权某人做某事
+	派：authorisation n.授权，委托；授权书(例：grant authorisation 授权)
+	写作小站：
+	We will authorise payment in 80 days if your company orders 50000 items of products.
+	如果贵公司订购5万件产品的话，我们将在80天内批准付款。
+	
+embezzle [ɪm'bezl] vt.贪污；挪用(公款)
+	例：The former director was accused of embezzling company funds
+	这名前任主管被指控挪用公司资金
+	派：embezzlement n.贪污；盗用(公款)/embezzler n.贪污者；挪用(公款)者
+	
+
+Day68
+
+answering machine 录音电话
+	例：Answering machines bring much convenience for daily office work.
+	录音电话给日常办公带来很多便利。
+	搭：install/switch on/use an answering machine 安装/打开/使用录音电话
+	
+refine [rɪ'faɪn] vt.精炼，提纯；改善；使...文雅
+	例：Due to some small problems, the contract needs to be further refined.
+	由于有一些小问题，这份合同仍需进一步完善。
+	派：refined adj.精炼的；优雅的，有教养的/refinement n.改善；提炼/refiner n.精炼机；从事精炼加工的人(或公司)/refinery n.精炼厂；提炼厂(例：oil refinery 炼油厂)
+	
+markdown ['mɑːkdaʊn] n.减价；削价
+	例：In order to show our appreciation to new and old customers, all the products will be sold at a markdown of 25%.
+	为了答谢新老客户，所有商品一律减价25%出售。
+	
+R&D （=Reserch and Development）研发与开发；研发部门
+	例：The company is incresing their investment on R&D.
+	这家公司正在增加对研发的投资
+	
+session ['seʃn] n.会议；(法庭的)开庭；学年；一段时间
+	商：opening/closing session 开市/收盘
+	搭：court session 法庭开庭期
+	
+backdate [,bæk'deɪt] vt.倒填日期；回溯
+	例：The taxers who overpaid can backdate their claim to last February.
+	超额纳税者申领退款可以从去年2月算起。
+	
+plate [pleɪt] n.碟；金属板；金属牌；(印刷用的)印版，图版 vt.用(金、银等)镀覆；给...装甲
+	搭：have enough on your plate 问题(或工作等)成堆/a silver ring plated with gold 一枚镀金的银戒指/printing plate 印版/steel plate 钢板
+	派：plating n.金属镀层(例：gold plating 镀金层)
+	
+service ['sɜːvɪs] vt.保养；维修；支付(公债等的)利息 n.任职；用处；政府部门；[常pl.]服务
+	例：It is said that a highly developed service industry is one important sign of a modern economy.
+	人们说高度发展的服务业是现代经济的一个重要标志。
+	商：service charge 服务费/customer service 客户服务；售后服务
+	搭：service area 服务区/service the debt 支付债务利息/at the service of sb./at one's service 随时可供使用(或提供帮助)/do sb. a/no service 有助于/无助于某人
+	派：serviceable adj.可供使用的；耐用的
+	
+simulation [,sɪmju'leɪʃn] n.模拟，模仿；假装，伪装；模拟操作
+	例：The department conducts a crisis simulation every year to strengthen their abilities to cope with crisis.
+	这个部门每年都会进行一次危机模拟，以增强他们应对危机的能力。
+	搭：simulation model 仿真模型；模拟模型/computer simulation 计算机模拟
+	
+ultimate ['ʌltɪmət] adj.最终的；根本的；最高的 n.终极；根本
+	例：The company's ultimate aim is to conquer the whole market of Southeast Asia.
+	这家公司的最终目标是占领整个东南亚市场。
+	商：ultimate consumer 最终消费者
+	搭：ultimate cause 根本原因/ultimate authority 至高无上的权威/the ultimate in luxury 极尽奢华
+	派：ultimately adv.最终；最后/ultimatum n.最后通牒；最后结论
