@@ -508,3 +508,63 @@ hinder ['hɪndə(r)] v.阻碍，打扰
 	政局不稳定将会阻碍经济发展。
 	搭：hinder sb. from sth./doing sth. 阻碍某人做某事
 	派：hindrance n.障碍；妨碍物
+	
+	
+Day70
+
+element ['elɪmənt] n.元素；要素；成分
+	例：Some fashionable elements should be added to our products to attract young consumers.
+	我们的产品中应该加入一些时尚元素来吸引年轻的消费者。
+	商：economic elements 经济成分
+	搭：in one's element 如鱼得水；得心应手/out of one's element 处于不适宜的环境
+	派：elemental adj.基本的；主要的/elementary adj.初级的；基本的(例：elementary level 初级水平)
+	
+tug-of-war [,tʌgəv'wɔː(r)] n.激烈竞争；拔河比赛
+	例：The economic crisis may set off a giant tug-of-war between the private sector credit system and the Federal Reserve.
+	这场经济危机可能会引发私营信贷系统和美联储之间的激烈竞争。
+	
+gradual ['grædʒuəl] adj.逐渐的，渐进的
+	例：The country has just experienced economic depression and economic recovery is sure to be a gradual process.
+	这个国家刚刚经历了经济萧条，经济恢复必将是一个渐进的过程。
+	派：gradually adv.逐渐地，渐进地/gradualism n.渐进主义/gradualist n.渐进主义者
+	
+shopping trip 购物旅行
+	例：This book is a perfect guide for the shopping trip in New York.
+	这本书是纽约购物之旅的绝妙指南。
+	
+qualify ['kwɒlɪfaɪ] v.(使)胜任，(使)具有资格，(使)合格
+	例：Only the employees working for more than one year for the company are qualified for the annual bonus.
+	只有在公司工作超过一年的员工才有资格享受年终奖。
+	搭：qualify as 取得...资格/qualify for (使)有资格
+	派：qualifier n.合格者；预选赛
+	
+consent [kən'sent] vi.同意，赞成；答应 n.同意，(意见等的)一致，赞成
+	例：After a hard negotiation, our customer finally consented to extend the delivery period by a week.
+	经过艰苦的协商，客户终于同意将交货期延长一周。
+	搭：give consent to 同意/by common consent 一致同意/by mutual consent 双方达成共识
+	
+tactic [,tæktɪk] n.策略；战术，兵法
+	例：The government tried to devalue the currency to expand export and the tactic was effective.
+	政府尝试通过将货币贬值来扩大出口，这一招奏效了。
+	派：tactician n.有策略的人；谋士/tactical adj.战术的；策略的；有谋略的
+	
+achieve [ə'tʃi:v] vt.获得；达到；实现，完成 vi.达到目的
+	搭：achieve power and prestige 获得权力和声望
+	派：achievement n.成就；完成；达到(例：economic achievements 经济成果)
+	听说小站：
+	M: The economic environment is not so encouraging this year.
+	今年的经济环境不太乐观。
+	W: So, we have to make detailed plans to achieve this year's profit target.
+	所以，我们必须制订详细的计划来实现今年的利润目标。
+	
+workshop ['wɜːkʃɒp] n.车间；工厂；研讨会；讲习班
+	例：The manager is willing to take part in a series of workshops and business seminars to improve himself.
+	这位经理乐意参加一系列的讲习班和商务研讨会来提升自己。
+	商：processing workshop 加工车间/in-service workshop 在职讲习班
+	
+prompt [prɒmpt] adj.立即的，迅速的 vt.促使，导致；提示，提醒；提词
+	例：The appreciation of the RMB prompts Chinese residents to travel and purchase abroad.
+	人民币升值促使中国人到国外旅游和购物。
+	商：prompt cash 即期付款/prompt note 交割通知单/prompt day 交割日，清账日
+	搭：ask for prompt reply 要求立即答复
+	派：promptly adv.立即地，迅速地/promptness n.敏捷，迅速；机敏/prompting n.催促；督促
