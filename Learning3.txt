@@ -1,0 +1,63 @@
+Day71
+
+deal [di:l] vi.处理；对待；交易；谈及 vt.分配；给予；经营 n.交易；协议；大量，极大程度
+	商：clinch/conclude/make a deal 达成交易/deal with a complaint/an enquiry 处理投诉/询问
+	搭：a great deal of 许多，大量/deal with 与...打交道
+	派：dealing n.交易；行为(例：property/financial dealings 房地产/金融交易)
+	听说小站：
+	M: The company has got more orders than last year at the end of September.
+	截止到九月底，这家公司的订单量已经超过去年。
+	W: It is not surprising, they are good at dealing with clients.
+	这并不奇怪，他们很擅长和客户打交道
+	
+plaintiff ['pleɪntɪf] n.原告
+	例：The judge thought that the proof was not powerful enough and did not award damages to the plaintiff.
+	法官认为证据不够有力，没有判给原告损害赔偿金。
+	
+revitalise [,ri:vaɪtəlaɪz] vt.使恢复生机；使振兴
+	例：The new mayor took effective measures to revitalise the local economy.
+	新任市长采取了有效措施来振兴当地经济。
+	派：revitalisation n.振兴
+	
+venture ['ventʃə(r)] n.风险投资，(商业等的)风险项目；企业；冒险 vt.冒险；敢于；投机
+	例：The entrepreneur deeply understood the hardness of starting a business, so he would never venture his whole fortune on shares.
+	这位企业家深知创业的艰辛，因此他永远不会冒险将自己所有的财富都投资在股票上。
+	商：venture capital 风险资本；风险投资/joint venture 合资企业
+	搭：venture into/on 冒险做
+	派：venturesome adj.大胆的；有风险的
+	
+conflict ['kɒnflɪkt] n.冲突，抵触；争论；战斗，战争 vi.冲突，抵触 
+	例：The two publishing houses are in conflict with each other over copyright.
+	这两家出版社因版权问题发生冲突。
+	商：conflict of interest(s)利益冲突
+	搭：in conflict with 与...冲突，与...不一致
+	派：conflicted adj.冲突的；抵触的
+	
+emerge [i'mɜːdʒ] vi.出现；浮出水面
+	例：It soon emerged that the economic depression was due to the American subprime-mortgage crisis.
+	人们很快发现，这次经济萧条是由美国的次贷危机造成的。
+	搭：emerge from 从...出现，露出/emerge as 出现；成为
+	派：emergence n.出现，暴露/emergency n.紧急情况 adj.紧急的；备用的
+	
+title ['taɪtl] n.标题；头衔，职称；冠军；所有权；权利 vt.给...加标题；授予头衔；把...称为
+	例：He undeniably held the title to the property after his father's death.
+	他父亲死后，他对这份财产拥有无可置疑的所有权。
+	商：title deed 所有权证书；地契
+	搭：title page 标题页；扉页/senior title 高级职称/world title 世界冠军
+	派：titled adj.有头衔的；有爵位的
+	
+amortise [ə'mɔːtaɪz] vt.分期偿还(债务等)
+	例：We plan to amortise the total loan of our house over 15 years.
+	我们打算在15年内分期偿还完房子的所有贷款
+	搭：amortise the cost/a loan/a debt 分期偿还费用/贷款/债务
+	派：amortisation n.摊销；分期付款(例：amortisation of a debt 分期还债/pay ath. in amortisation 分期付款购买)
+	
+cash-strapped ['kæʃstræpt] adj.缺乏现金的，没有足够资本的
+	例：Cash-strapped countries try to apply for funds from the IMF.
+	缺乏资金的国家试图向国际货币基金组织申请基金。
+	商：cash-strapped enterprise 资金短缺的企业
+	
+abatement [ə'beɪtmənt] n.减少，降低；(价格、赋税等的)减少额
+	例：They said that installation of pollution abatement equipment was not profitable.
+	他们说安装污染治理设备无利可图。
+	搭：emission abatement 减排/risk abatement 风险规避
